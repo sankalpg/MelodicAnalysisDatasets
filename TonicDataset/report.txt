@@ -1,0 +1,37 @@
+This report is generated on 10/17/16	
+
+This is an automatically generated report. It contains information about the verification of the datasets, we check each an every file related with the dataset and summarize the results in this file.
+
+Format: extension	total files	files present
+
+
+####################  CM1 ###########################
+.pit.txt	271	271
+.ph.txt	271	271
+.mp3	271	271
+.mph.txt	271	271
+####################  CM2 ###########################
+.pit.txt	935	935
+.ph.txt	935	935
+.mp3	935	935
+.mph.txt	935	935
+####################  CM3 ###########################
+.pit.txt	428	428
+.ph.txt	428	428
+.mp3	428	428
+.mph.txt	428	428
+####################  IITM2 ###########################
+.pit.txt	472	472
+.ph.txt	472	471
+.mp3	472	472
+.mph.txt	472	472
+####################  IISc ###########################
+.pit.txt	55	55
+.ph.txt	55	55
+.mp3	55	55
+.mph.txt	55	55
+####################  ISMIR2012 ###########################
+.pit.txt	364	364
+.ph.txt	364	364
+.mp3	364	364
+.mph.txt	364	364

@@ -1,0 +1,936 @@
+path	tonic(hz)	tradition	artist_name	gender	vocal_instrumental
+TonicDataset/CM/audio/372c5111-5b37-49f9-a734-6cd14ac24725_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/5001b4f5-6014-4add-973e-c9e1ffe74562_0-180.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/9bc3bca7-3360-4e6a-9c60-d38bfc2da752_0-180.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/9bc3bca7-3360-4e6a-9c60-d38bfc2da752_1218-1398.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/9bc3bca7-3360-4e6a-9c60-d38bfc2da752_609-789.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/abc578a4-0881-45db-b3da-8302e857c8b0_0-180.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/abc578a4-0881-45db-b3da-8302e857c8b0_1477-1657.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/abc578a4-0881-45db-b3da-8302e857c8b0_2955-3135.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/c65226d6-a072-4379-bb24-28b128f76833_0-180.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/cfaa7cb6-4a84-4a93-b3a9-371f5bf1b0bb_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/f6b18423-2401-439b-b2f6-6c0156a5a05c_0-180.mp3	171.61435	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/527c1543-deba-4b62-9a41-0b13443ca831_0-180.mp3	205.877	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/5fc61b44-a672-4f9b-a88a-f7c10680d057_0-180.mp3	206.112	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/9505af2e-c772-49ef-834f-3f614e1117ac_0-180.mp3	206.983	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/9e27e670-090b-4191-b871-82e4c18b7be1_0-180.mp3	206.394	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/bf0ea122-796b-47f0-8768-e8b88af678ad_0-180.mp3	205.903	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/c6758c9e-fd4e-4d55-a250-5283fff6741f_0-180.mp3	205.961	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/d17fc49c-5c9a-4dd2-9e1e-334078473e63_0-180.mp3	207.015	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/e58b1f63-c035-4ace-9764-82682b80c7f8_0-180.mp3	206.154	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/fe63aa10-bfa0-4dc6-9845-e57811c2feaa_0-180.mp3	206.155	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/357fc51a-8a88-40c6-8649-36e9e5f9e9e9_0-180.mp3	208.855267	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/a9c47da7-2831-4ee6-8cc4-dab879346c8e_0-180.mp3	210.065153	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/b8633580-1d94-4618-aa2c-25d27cdbd1bc_0-180.mp3	208.855267	Carnatic	Bombay Jayashri	Female	vocal
+TonicDataset/CM/audio/9c5e71c9-77aa-41dd-a7f2-4259faf8d7be_0-180.mp3	140.201669	Carnatic	D. K. Pattammal	Female	vocal
+TonicDataset/CM/audio/a00bae70-ca3a-47f5-ba82-88522af77cf8_0-180.mp3	141.013849	Carnatic	D. K. Pattammal	Female	vocal
+TonicDataset/CM/audio/1232586a-4c61-43a4-b1bc-2758ec73841c_0-180.mp3	187.708	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/7691ba03-79f9-4612-a7a0-dc4522c8b89c_0-180.mp3	182.847	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/84d55da4-5f22-4b1a-88ad-aff6d6510b60_0-180.mp3	183.408	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/bac62967-76b2-454c-b339-575113eec02d_0-180.mp3	190.317	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/bbbbea5b-bba7-44e1-90fc-0fca0a0b65a3_0-180.mp3	192.675	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/f7c07ffe-ecf4-4ff4-9dba-46cb57e93657_0-180.mp3	184.833	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/a59d3c8e-ed81-4b77-9c89-b4a5d7eb6491_0-180.mp3	194.868854	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/26edd341-14fc-4c65-8904-8db801afbf2f_0-180.mp3	200.14	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/b60da3ab-776e-4a76-a8da-f21e4891584a_0-180.mp3	200.168	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/0be1af7a-4576-4618-bd6b-6645fb1c7c07_0-180.mp3	212.505992	Carnatic	Nithyasree Mahadevan	Female	vocal
+TonicDataset/CM/audio/48a567ff-1a2f-4b27-bf0d-8facb216b684_0-180.mp3	212.505992	Carnatic	Nithyasree Mahadevan	Female	vocal
+TonicDataset/CM/audio/e6eeb05b-ce52-4938-acc4-11fe59ed86f6_0-180.mp3	212.505992	Carnatic	Nithyasree Mahadevan	Female	vocal
+TonicDataset/CM/audio/e6eeb05b-ce52-4938-acc4-11fe59ed86f6_1111-1291.mp3	212.505992	Carnatic	Nithyasree Mahadevan	Female	vocal
+TonicDataset/CM/audio/e6eeb05b-ce52-4938-acc4-11fe59ed86f6_555-735.mp3	212.505992	Carnatic	Nithyasree Mahadevan	Female	vocal
+TonicDataset/CM/audio/01936cd0-f084-4ec4-a3d4-f098d5db4c45_0-180.mp3	193.022	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/16b03f65-d9a3-425d-97d8-377182a2789f_0-180.mp3	192.918	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/1c3d8526-6692-46f5-a00a-92dddbead9ff_0-180.mp3	197.16	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/442715a3-31f8-494a-a694-9c571e7c38ea_0-180.mp3	197.138	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/4a0eec90-de3a-4393-94ab-56d853eb2bc7_0-180.mp3	194.172	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/4a0eec90-de3a-4393-94ab-56d853eb2bc7_1195-1375.mp3	192.614	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/4a0eec90-de3a-4393-94ab-56d853eb2bc7_597-777.mp3	193.508	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/4cce25c2-7ffe-431c-9665-0e3d7ac4d75e_0-180.mp3	197.235	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/507c8fee-0844-4602-82d9-2cb131d06c84_0-180.mp3	197.695	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/507c8fee-0844-4602-82d9-2cb131d06c84_1106-1286.mp3	196.661	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/507c8fee-0844-4602-82d9-2cb131d06c84_2212-2392.mp3	197.513	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/524e22c9-aaf6-40e5-91ac-315b28349b6d_0-180.mp3	193.331	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/7970115a-cc46-4678-a067-e47236435ba7_0-180.mp3	192.769	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/7c12e1e5-f5c9-4269-ba0c-4d36a5c71ca3_0-180.mp3	197.653	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/7c12e1e5-f5c9-4269-ba0c-4d36a5c71ca3_1239-1419.mp3	196.931	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/7c12e1e5-f5c9-4269-ba0c-4d36a5c71ca3_619-799.mp3	196.926	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/84b20565-5e49-41f7-95a9-6ef495e85ff4_0-180.mp3	197.453	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/a2b822ce-4594-4f3f-85b6-c41c5269c593_0-180.mp3	193.199	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/a2b822ce-4594-4f3f-85b6-c41c5269c593_373-553.mp3	193.237	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/a2b822ce-4594-4f3f-85b6-c41c5269c593_746-926.mp3	194.275	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/abee3d98-f392-4a84-a570-3ae3ac7666da_0-180.mp3	197.695	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/bb84c16a-f627-497c-9788-ec541337e335_0-180.mp3	196.892	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/bbee764d-7406-47ce-821a-a82030b89eca_0-180.mp3	197.684	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/ff5c35cb-504d-4e19-a2bb-75195114f388_0-180.mp3	193.649	Carnatic	S. Sowmya	Female	vocal
+TonicDataset/CM/audio/0edbc0b8-fbe9-4b24-9865-2d90d278af34_0-180.mp3	206.211	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/1a840c38-24a1-4faf-8710-d543c0d5aafe_0-180.mp3	205.944	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/1fccaf30-1821-4342-8ab1-a1c5caa89e90_0-180.mp3	208.103	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/6688cb72-8dd9-492b-b652-7a2a522d262d_0-180.mp3	206.6	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/91517732-ab95-4b42-8bef-93c065cd7018_0-180.mp3	206.702	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/a7bfcbd5-0f0c-4564-ad78-d61cfae686fd_0-180.mp3	207.015	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/a7bfcbd5-0f0c-4564-ad78-d61cfae686fd_1128-1308.mp3	207.294	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/a7bfcbd5-0f0c-4564-ad78-d61cfae686fd_564-744.mp3	206.575	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/ca323119-2bba-40df-ab7c-8bb1eeb860a8_0-180.mp3	138.673	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/d37c129e-cefc-4f81-818b-9f9368c5e8d5_0-180.mp3	206.381	Carnatic	Sudha Ragunathan	Female	vocal
+TonicDataset/CM/audio/0efa6531-54dc-4d9f-92ca-932a686481cf_0-180.mp3	185.21	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/204735ab-cba7-49f4-9d7c-9e08dcadf6be_0-180.mp3	190.537	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/46d2fe1f-87e4-47fc-a665-cdb680dae535_0-180.mp3	187.154	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/51be244d-17aa-4c44-88f7-82d00225da0e_0-180.mp3	192.055	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/539f5ee4-f163-452a-ae6c-ffb3231bdd57_0-180.mp3	193.071	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/93ec5381-1ff3-4f57-a170-1ea0e0109eff_0-180.mp3	184.649	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/9438f9d0-869f-44db-a474-119732a0f36a_0-180.mp3	192.926	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/fcaf0f41-b69b-4052-ab3a-75e77b99b445_0-180.mp3	185.389	Carnatic	T. Brinda & T. Mukta	Female	vocal
+TonicDataset/CM/audio/ca4d789d-c3b7-418a-8cc7-436378daa3c9_0-180.mp3	141.013849	Carnatic	D. K. Pattammal	Female	vocal
+TonicDataset/CM/audio/13a3fbbc-16bc-404c-8b03-fdfdb036edd5_0-180.mp3	188.230906	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/33349774-5747-4bdd-a363-9585969be7c2_0-180.mp3	184.997211	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/3ffea960-050c-4f63-b944-5eaa78fd6bce_0-180.mp3	184.997211	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/7487a3e5-3eb8-417c-b27f-92a9c491b3af_0-180.mp3	189.321316	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/7487a3e5-3eb8-417c-b27f-92a9c491b3af_1300-1480.mp3	188.230906	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/7487a3e5-3eb8-417c-b27f-92a9c491b3af_2600-2780.mp3	188.230906	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/78d42de5-a924-4b07-a723-cfabc4c896a1_0-180.mp3	187.146775	Carnatic	M.S. Subbulakshmi	Female	vocal
+TonicDataset/CM/audio/29abee6e-8cd0-47e4-8e6e-cd6ffc34d87f_0-180.mp3	184.997211	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/49d70424-8a14-4e81-be2c-2b72bbe33b35_0-180.mp3	181.81907	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/55ef993a-1671-4c49-818c-7868828567b3_0-180.mp3	190.418043	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/8b217b4a-85bc-47eb-9ff5-c5ed1b087810_0-180.mp3	180.771869	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/8b217b4a-85bc-47eb-9ff5-c5ed1b087810_1210-1390.mp3	181.81907	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/8b217b4a-85bc-47eb-9ff5-c5ed1b087810_605-785.mp3	180.771869	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/9816c97f-0f47-43ea-a387-e03478117658_0-180.mp3	181.81907	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/b36805da-f88e-4cbd-92fe-e32755691c85_0-180.mp3	181.81907	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/c45f94a1-eaa2-4196-bb44-85590f0b4ae6_0-180.mp3	182.872337	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/cdce6bca-67d8-47c8-8426-098fb8ca61a4_0-180.mp3	189.321316	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/cdce6bca-67d8-47c8-8426-098fb8ca61a4_430-610.mp3	190.418043	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/cdce6bca-67d8-47c8-8426-098fb8ca61a4_861-1041.mp3	191.521124	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/e75d4209-fd08-4dd0-9cf1-0282bd4addbf_0-180.mp3	187.146775	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/e75d4209-fd08-4dd0-9cf1-0282bd4addbf_1164-1344.mp3	188.230906	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/e75d4209-fd08-4dd0-9cf1-0282bd4addbf_582-762.mp3	188.230906	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/ecc0ce0a-cb81-497e-9d10-f2b58dc71702_0-180.mp3	183.931706	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/f4d9c392-8347-4679-b6bf-1955dae5e2d4_0-180.mp3	183.931706	Carnatic	T. Brinda	Female	vocal
+TonicDataset/CM/audio/7084ac88-542c-4e84-8eda-dc9735201d18_0-180.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/7084ac88-542c-4e84-8eda-dc9735201d18_376-556.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/7084ac88-542c-4e84-8eda-dc9735201d18_753-933.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/79a925ab-cb2a-4299-921d-769a76b76443_0-180.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/79a925ab-cb2a-4299-921d-769a76b76443_1417-1597.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/79a925ab-cb2a-4299-921d-769a76b76443_708-888.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/d1b0cda3-2596-41a4-8a12-7fa5077f16c0_0-180.mp3	220	Hindustani	Aarti Anklikar Tikekar	Female	vocal
+TonicDataset/CM/audio/20ca2cfd-0c1b-4ecf-9a60-589917088087_0-180.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/20ca2cfd-0c1b-4ecf-9a60-589917088087_1999-2179.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/20ca2cfd-0c1b-4ecf-9a60-589917088087_999-1179.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/4f5a6a1b-7002-4538-b642-b0ed42e91140_0-180.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/4f5a6a1b-7002-4538-b642-b0ed42e91140_377-557.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/4f5a6a1b-7002-4538-b642-b0ed42e91140_755-935.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/861583ea-1108-462e-8173-442158673142_0-180.mp3	233.081881	Hindustani	Ashwini Bhide Deshpande	Female	vocal
+TonicDataset/CM/audio/05998386-9e41-43c8-9f3a-a14fe3a03c83_0-180.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/05998386-9e41-43c8-9f3a-a14fe3a03c83_1544-1724.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/05998386-9e41-43c8-9f3a-a14fe3a03c83_772-952.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/56c945ef-f5ed-4b03-ace1-80ed9b7acf25_0-180.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/56c945ef-f5ed-4b03-ace1-80ed9b7acf25_1460-1640.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/56c945ef-f5ed-4b03-ace1-80ed9b7acf25_730-910.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/c853d66a-7f61-42ef-8373-94798bde90a6_0-180.mp3	220	Hindustani	Gauri Pathare	Female	vocal
+TonicDataset/CM/audio/00f54612-09f6-4528-91f1-95e5ef191c1b_0-180.mp3	213.107	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/00f54612-09f6-4528-91f1-95e5ef191c1b_1486-1666.mp3	213.091	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/00f54612-09f6-4528-91f1-95e5ef191c1b_743-923.mp3	213.867	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/930ae825-111c-4dd5-b8be-de609fd5202d_0-180.mp3	214.113	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/d39c9b50-a0ee-4d93-8fd9-d8375b0e236a_0-180.mp3	213.872	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/d39c9b50-a0ee-4d93-8fd9-d8375b0e236a_385-565.mp3	213.735	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/d39c9b50-a0ee-4d93-8fd9-d8375b0e236a_770-950.mp3	213.935	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/0b9e4b91-574a-4d30-9388-64096a8330ab_0-180.mp3	231.739428	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/0b9e4b91-574a-4d30-9388-64096a8330ab_1530-1710.mp3	230.404707	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/0b9e4b91-574a-4d30-9388-64096a8330ab_765-945.mp3	233.081881	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/36d0ccde-ac97-4d6a-b755-ec4a5340e3bd_0-180.mp3	234.43211	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/541d802c-ca5e-4ad6-b7bd-953a490d81c8_0-180.mp3	225.142256	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/59ebf93e-fb88-4ac1-b400-000ffbc7ae3d_0-180.mp3	207.652349	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/59ebf93e-fb88-4ac1-b400-000ffbc7ae3d_1022-1202.mp3	207.652349	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/59ebf93e-fb88-4ac1-b400-000ffbc7ae3d_2045-2225.mp3	207.652349	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/6da855b7-dad3-4794-ac01-726d8558ddec_0-180.mp3	226.446492	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/aa0740c9-a96e-4f06-9de8-1072db35132b_0-180.mp3	233.081881	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/b2e49d21-7259-4924-825f-34603fae2004_0-180.mp3	226.446492	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/f4e969a2-e64d-49e1-aaeb-6b557c7e7517_0-180.mp3	223.845532	Hindustani	Girija Devi	Female	vocal
+TonicDataset/CM/audio/0c2b8dd9-299a-441f-aa21-47d90ef3e434_0-180.mp3	226.446492	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/45772d20-d1a3-4dc8-b1d3-485322b1f171_0-180.mp3	214.975193	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/4efbe000-a0eb-4f6d-bfe0-4db39fcde439_0-180.mp3	230.404707	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/a4240759-a15f-4d8b-be89-25c3cb55a51c_0-180.mp3	226.446492	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/b610548c-cb21-45aa-8aaf-a1dc7cce8130_0-180.mp3	223.845532	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/b610548c-cb21-45aa-8aaf-a1dc7cce8130_436-616.mp3	225.142256	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/b610548c-cb21-45aa-8aaf-a1dc7cce8130_873-1053.mp3	222.556277	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/c1801ead-c76f-4b8a-8191-00333dbcefc0_0-180.mp3	210.065153	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/c1801ead-c76f-4b8a-8191-00333dbcefc0_1416-1596.mp3	211.282048	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/c1801ead-c76f-4b8a-8191-00333dbcefc0_708-888.mp3	211.282048	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/dd20badd-61cc-47ac-9222-12d898dcbe24_0-180.mp3	237.15608	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/dfaa749e-ab19-439b-a057-51516bed4721_0-180.mp3	208.855267	Hindustani	Hirabai Barodekar	Female	vocal
+TonicDataset/CM/audio/68ecc764-b0da-4919-affe-8a50d558cbbf_0-180.mp3	232.73	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/68ecc764-b0da-4919-affe-8a50d558cbbf_1510-1690.mp3	232.931	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/68ecc764-b0da-4919-affe-8a50d558cbbf_755-935.mp3	233.343	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/faf6650c-9bc7-443a-98cc-777fb8b4730a_0-180.mp3	233.146	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/faf6650c-9bc7-443a-98cc-777fb8b4730a_432-612.mp3	232.989	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/faf6650c-9bc7-443a-98cc-777fb8b4730a_865-1045.mp3	234.687	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/ff70a092-0893-4836-a2a2-7ea654d171c9_0-180.mp3	233.461	Hindustani	Kaushiki Chakrabarty	Female	vocal
+TonicDataset/CM/audio/80c94c75-4175-40ca-9f23-4e5a04f5e9cb_0-180.mp3	233.529	Hindustani	Kaushiki Desikan	Female	vocal
+TonicDataset/CM/audio/80c94c75-4175-40ca-9f23-4e5a04f5e9cb_1083-1263.mp3	233.237	Hindustani	Kaushiki Desikan	Female	vocal
+TonicDataset/CM/audio/80c94c75-4175-40ca-9f23-4e5a04f5e9cb_2167-2347.mp3	232.311	Hindustani	Kaushiki Desikan	Female	vocal
+TonicDataset/CM/audio/932be692-9ff8-4fe1-8546-b92b2d3db696_0-180.mp3	231.602	Hindustani	Kaushiki Desikan	Female	vocal
+TonicDataset/CM/audio/59ccc29e-d179-4439-b523-1a269443594e_0-180.mp3	234.43211	Hindustani	Kaushiki Desikan	Female	vocal
+TonicDataset/CM/audio/0efd0dde-018c-4c30-972b-9dc14c6f09b5_0-180.mp3	238.529911	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/40e1b574-0e76-43ad-8907-90aaeaab273f_0-180.mp3	245.519371	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/40e1b574-0e76-43ad-8907-90aaeaab273f_1050-1230.mp3	245.519371	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/40e1b574-0e76-43ad-8907-90aaeaab273f_2101-2281.mp3	245.519371	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/50a45482-2a3e-44a8-beea-1320f529fa00_0-180.mp3	238.529911	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/50a45482-2a3e-44a8-beea-1320f529fa00_1186-1366.mp3	238.529911	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/50a45482-2a3e-44a8-beea-1320f529fa00_593-773.mp3	238.529911	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/809196fd-2e16-435e-9d18-6c6132da0797_0-180.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/809196fd-2e16-435e-9d18-6c6132da0797_1115-1295.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/809196fd-2e16-435e-9d18-6c6132da0797_557-737.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/c3f62aea-02ab-4c4e-a96d-b56579fcff2e_0-180.mp3	241.301496	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/c3f62aea-02ab-4c4e-a96d-b56579fcff2e_1140-1320.mp3	241.301496	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/c3f62aea-02ab-4c4e-a96d-b56579fcff2e_570-750.mp3	241.301496	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/e080c79b-865a-4a79-a562-3458c28a7df2_0-180.mp3	238.529911	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/e080c79b-865a-4a79-a562-3458c28a7df2_1226-1406.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/e080c79b-865a-4a79-a562-3458c28a7df2_613-793.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/f8b4c217-d716-425c-b2cf-bb2d4e307028_0-180.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/f8b4c217-d716-425c-b2cf-bb2d4e307028_1209-1389.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/f8b4c217-d716-425c-b2cf-bb2d4e307028_604-784.mp3	237.15608	Hindustani	Kishori Amonkar	Female	vocal
+TonicDataset/CM/audio/bf3e009b-5d36-46a2-8fde-3c019c9fef1a_0-180.mp3	223.845532	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/bf3e009b-5d36-46a2-8fde-3c019c9fef1a_1585-1765.mp3	223.845532	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/bf3e009b-5d36-46a2-8fde-3c019c9fef1a_792-972.mp3	223.845532	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/f149cad0-c5af-48d6-a726-ef3badb0169a_0-180.mp3	223.845532	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/f149cad0-c5af-48d6-a726-ef3badb0169a_1570-1750.mp3	226.446492	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/f149cad0-c5af-48d6-a726-ef3badb0169a_785-965.mp3	225.142256	Hindustani	Malini Rajurkar	Female	vocal
+TonicDataset/CM/audio/3412a602-bb1d-4167-86fc-6f28aec2d0e6_0-180.mp3	238.529911	Hindustani	Prabha Atre	Female	vocal
+TonicDataset/CM/audio/3ce024ce-395c-45a7-9236-ac282eb21aa3_0-180.mp3	237.15608	Hindustani	Prabha Atre	Female	vocal
+TonicDataset/CM/audio/3ce024ce-395c-45a7-9236-ac282eb21aa3_1335-1515.mp3	244.105284	Hindustani	Prabha Atre	Female	vocal
+TonicDataset/CM/audio/3ce024ce-395c-45a7-9236-ac282eb21aa3_2670-2850.mp3	238.529911	Hindustani	Prabha Atre	Female	vocal
+TonicDataset/CM/audio/219ed2bb-52d5-4c07-8dbf-ee72105e81ed_0-180.mp3	213.737027	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/7a746d63-7025-44b4-87d6-c7440e5fb9a2_0-180.mp3	213.737027	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/7a746d63-7025-44b4-87d6-c7440e5fb9a2_363-543.mp3	212.505992	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/7a746d63-7025-44b4-87d6-c7440e5fb9a2_726-906.mp3	212.505992	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/cdd148c7-07e4-46c9-88d9-fbbfcea2edf5_0-180.mp3	212.505992	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/cdd148c7-07e4-46c9-88d9-fbbfcea2edf5_1495-1675.mp3	212.505992	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/cdd148c7-07e4-46c9-88d9-fbbfcea2edf5_747-927.mp3	212.505992	Hindustani	Shruti Sadolikar	Female	vocal
+TonicDataset/CM/audio/6bbe6afb-8ec4-452c-aff3-d54e8c1bb04a_0-180.mp3	223.845532	Hindustani	Shubha Mudgal	Female	vocal
+TonicDataset/CM/audio/7b8c396b-bd96-449c-899c-1db06fead2e0_0-180.mp3	210.065153	Hindustani	Shubha Mudgal	Female	vocal
+TonicDataset/CM/audio/b2456c14-8db5-4d11-bf23-ec360b33d242_0-180.mp3	223.845532	Hindustani	Shubha Mudgal	Female	vocal
+TonicDataset/CM/audio/b2456c14-8db5-4d11-bf23-ec360b33d242_1057-1237.mp3	223.845532	Hindustani	Shubha Mudgal	Female	vocal
+TonicDataset/CM/audio/b2456c14-8db5-4d11-bf23-ec360b33d242_528-708.mp3	223.845532	Hindustani	Shubha Mudgal	Female	vocal
+TonicDataset/CM/audio/4c9a09c7-ba77-4092-a357-bbd310bc2050_0-180.mp3	227.758283	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/4c9a09c7-ba77-4092-a357-bbd310bc2050_367-547.mp3	226.446492	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/4c9a09c7-ba77-4092-a357-bbd310bc2050_734-914.mp3	226.446492	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/8bbb44c9-4993-49e6-9cbc-c3be9b22eb78_0-180.mp3	229.077674	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/8bbb44c9-4993-49e6-9cbc-c3be9b22eb78_363-543.mp3	227.758283	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/8bbb44c9-4993-49e6-9cbc-c3be9b22eb78_726-906.mp3	227.758283	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/f4c79456-b33a-4942-8a20-627489570830_0-180.mp3	229.077674	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/f4c79456-b33a-4942-8a20-627489570830_1614-1794.mp3	226.446492	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/f4c79456-b33a-4942-8a20-627489570830_807-987.mp3	227.758283	Hindustani	Suhasini Koratkar	Female	vocal
+TonicDataset/CM/audio/0481f568-f9f9-4b9d-9f03-d82cb9ccbf3c_0-180.mp3	236.784	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/0481f568-f9f9-4b9d-9f03-d82cb9ccbf3c_1359-1539.mp3	236.75	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/0481f568-f9f9-4b9d-9f03-d82cb9ccbf3c_679-859.mp3	236.559	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/22e45ddb-9b88-406e-996a-2136730d72d4_0-180.mp3	237.11	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/22e45ddb-9b88-406e-996a-2136730d72d4_1317-1497.mp3	236.611	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/22e45ddb-9b88-406e-996a-2136730d72d4_658-838.mp3	236.781	Hindustani	Veena Sahasrabuddhe	Female	vocal
+TonicDataset/CM/audio/46c4267b-f2c8-4fd7-8423-d7cc648395bb_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/5769ea2f-aed4-4169-9a20-bae4cb733b8e_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/93453f59-c459-4602-b75b-aa87aeb2914f_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/9788f26b-57f2-4a45-aa20-db1030129f3b_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/9788f26b-57f2-4a45-aa20-db1030129f3b_1387-1567.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/9788f26b-57f2-4a45-aa20-db1030129f3b_693-873.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/b788cb93-770b-4dcb-bca3-1ebaa3ecf38a_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/b788cb93-770b-4dcb-bca3-1ebaa3ecf38a_1220-1400.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/b788cb93-770b-4dcb-bca3-1ebaa3ecf38a_2441-2621.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/c81aa59b-bcc7-4199-a27a-0ded0764c8f3_0-180.mp3	192.630595	Carnatic	Amritha Murali	Female	vocal
+TonicDataset/CM/audio/2c0f7c85-32b1-4b05-84fe-eeaaa70c0fa6_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/2c0f7c85-32b1-4b05-84fe-eeaaa70c0fa6_1198-1378.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/2c0f7c85-32b1-4b05-84fe-eeaaa70c0fa6_2397-2577.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/3baa722d-480e-4ae7-8559-a88dce41e1d4_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/654f43ea-e7b5-497e-89ed-74e04e0b1408_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/654f43ea-e7b5-497e-89ed-74e04e0b1408_1212-1392.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/654f43ea-e7b5-497e-89ed-74e04e0b1408_2424-2604.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/6fe47817-025c-4dcb-8374-d8852010e1d5_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/8f0ceb80-4bd5-4660-a3ed-5c027da3dc18_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/97bf406d-9c22-4307-beae-7bda5ee2e05e_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/cca50568-06ed-4d4a-9640-725671888bfc_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/f0a31bd3-983f-4fbe-b715-2ef0ea577158_0-180.mp3	170.625924	Carnatic	Aruna Sairam	Female	vocal
+TonicDataset/CM/audio/1d99a413-bc0a-430d-9587-410932113eaf_0-180.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/1d99a413-bc0a-430d-9587-410932113eaf_1194-1374.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/1d99a413-bc0a-430d-9587-410932113eaf_2389-2569.mp3	178.695527	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/2b492949-7b59-4e23-8695-0d6819d29485_0-180.mp3	176.643034	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/49039ca4-4ece-426a-a358-70a61d8f25f2_0-180.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/49039ca4-4ece-426a-a358-70a61d8f25f2_412-592.mp3	176.643034	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/49039ca4-4ece-426a-a358-70a61d8f25f2_824-1004.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/4c519d38-2ab7-48ea-826a-a4897b53665c_0-180.mp3	176.643034	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/8a004a11-2947-407a-b358-576ee98c5c8d_0-180.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/8a004a11-2947-407a-b358-576ee98c5c8d_1537-1717.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/8a004a11-2947-407a-b358-576ee98c5c8d_3075-3255.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/974b7eb2-40ad-4878-8c52-2d3701aa1598_0-180.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/974b7eb2-40ad-4878-8c52-2d3701aa1598_1149-1329.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/974b7eb2-40ad-4878-8c52-2d3701aa1598_574-754.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/c97a91da-176f-4a41-93ac-4db341f62241_0-180.mp3	178.695527	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/d0211d52-e8d1-452d-84c5-ff16495f2f6b_0-180.mp3	175.625645	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/d21abaae-5690-48e0-b01a-8c574f95d3d0_0-180.mp3	176.643034	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/ec70692e-3592-46ec-a55a-31a8a6d92e0e_0-180.mp3	177.666317	Carnatic	M. L. Vasanthakumari	Female	vocal
+TonicDataset/CM/audio/05cb0be1-0076-406d-bcfe-5082865dbd3b_0-180.mp3	208.855267	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/1d11eedc-c1f6-4dfb-9b5d-f7604197d11c_0-180.mp3	197.133121	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/2c61d608-dea5-4d89-b3a3-45e0292e237b_0-180.mp3	206.456359	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/476aca52-56c7-4bb5-9442-aea65b066b3a_0-180.mp3	197.133121	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/476aca52-56c7-4bb5-9442-aea65b066b3a_391-571.mp3	195.997718	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/476aca52-56c7-4bb5-9442-aea65b066b3a_783-963.mp3	199.423698	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/60e79cac-afd0-4b3f-ab90-6c925583a60c_0-180.mp3	205.267258	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/60e79cac-afd0-4b3f-ab90-6c925583a60c_479-659.mp3	206.456359	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/60e79cac-afd0-4b3f-ab90-6c925583a60c_959-1139.mp3	206.456359	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/86283bae-c08d-412a-982b-23498e144758_0-180.mp3	207.652349	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/98b8d96f-9700-49f7-b30d-984ccf9294fd_0-180.mp3	197.133121	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/a9378b83-15b8-4cfd-a5c9-0b461c3e7279_0-180.mp3	204.085006	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/b76ece9d-ee8a-43ed-aa2f-a6fddb9a7efd_0-180.mp3	197.133121	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/d580c76e-bdd9-4be6-a79e-df38538fa58c_0-180.mp3	197.133121	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/d62e1880-4091-47d5-a772-fc855e43b232_0-180.mp3	208.855267	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/d62e1880-4091-47d5-a772-fc855e43b232_1331-1511.mp3	208.855267	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/d62e1880-4091-47d5-a772-fc855e43b232_2663-2843.mp3	208.855267	Carnatic	Ranjani-Gayatri	Female	vocal
+TonicDataset/CM/audio/09da4438-b10c-470a-9b8b-a8012c8098ec_0-180.mp3	189.321316	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/09da4438-b10c-470a-9b8b-a8012c8098ec_1210-1390.mp3	190.418043	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/09da4438-b10c-470a-9b8b-a8012c8098ec_605-785.mp3	190.418043	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/3e8f5640-fb79-4746-a166-b3567f27708c_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/3e8f5640-fb79-4746-a166-b3567f27708c_1615-1795.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/3e8f5640-fb79-4746-a166-b3567f27708c_807-987.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/939a7796-21bf-47ae-92c2-b2e4fb7a715d_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/939a7796-21bf-47ae-92c2-b2e4fb7a715d_1554-1734.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/939a7796-21bf-47ae-92c2-b2e4fb7a715d_3109-3289.mp3	194.868854	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/a8676461-f3ac-45f2-b254-27616e417e8d_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/bfc861f2-1d5c-476b-9d74-087c7c157a4c_0-180.mp3	189.321316	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/c5e32bf4-2cb1-47fc-a3fd-c855e0e2cd40_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/c77ceb0b-50d5-4b53-9550-cb549aa3ce30_0-180.mp3	189.321316	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/d2cc63c9-d0b3-452f-8fb1-967da5ecea83_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/f4f31e75-37f4-408c-887b-f629ce402074_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/f6c659e6-abbf-4eb8-aacb-105056d7b47f_0-180.mp3	195.997718	Carnatic	Sumithra Vasudev	Female	vocal
+TonicDataset/CM/audio/5348e65d-975b-47b0-9517-8c652477dc04_0-180.mp3	143.478728	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/888f2a4c-a2f4-4e04-b3ab-6f24e63fb634_0-180.mp3	143.478728	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/0229612b-f8e8-4efd-97f3-1503935088e5_0-180.mp3	136.104	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/1513a073-1fe5-481f-9848-32a5c6505e65_0-180.mp3	139.859	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/1513a073-1fe5-481f-9848-32a5c6505e65_1422-1602.mp3	135.695	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/1513a073-1fe5-481f-9848-32a5c6505e65_711-891.mp3	139.215	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/3ba1767b-f6c3-43dc-856f-1df72863650f_0-180.mp3	137.175	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/49458b4a-5631-4cc5-8c8d-bf638223a58a_0-180.mp3	141.751	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/6fb47e57-cdbe-4538-b81c-fd5e43caa64b_0-180.mp3	141.356	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/ec72bec8-48f2-42a1-9a17-23e7330cd8da_0-180.mp3	144.17	Carnatic	Alathur Brothers	Male	vocal
+TonicDataset/CM/audio/37f6c0e8-dcb9-4722-8b91-60c05ccd82a3_0-180.mp3	131.125	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/390b4193-5b59-41cd-887b-02a81132ce4f_0-180.mp3	129.858	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/390b4193-5b59-41cd-887b-02a81132ce4f_1221-1401.mp3	130.308	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/390b4193-5b59-41cd-887b-02a81132ce4f_610-790.mp3	128.989	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/480922a6-b0d8-4dee-989e-16cb899780a7_0-180.mp3	131.104	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/547b05bb-4adb-4e78-83b9-93c0d3c1c9d6_0-180.mp3	130.452	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/547b05bb-4adb-4e78-83b9-93c0d3c1c9d6_361-541.mp3	130.791	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/547b05bb-4adb-4e78-83b9-93c0d3c1c9d6_722-902.mp3	130.795	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/e01519b8-8b84-47a5-9a9e-04c39022ae5e_0-180.mp3	131.884	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/80bd7cbe-8a84-42a9-922f-ca7bb4e4546d_0-180.mp3	133.983	Carnatic	Bala Muralikrishna	Male	vocal
+TonicDataset/CM/audio/979c66da-22ff-4609-8272-10d11862d7cd_0-180.mp3	128.951	Carnatic	Bala Muralikrishna	Male	vocal
+TonicDataset/CM/audio/e04aba4a-e384-4635-8247-ed4b74d86392_0-180.mp3	134.491	Carnatic	Bala Muralikrishna	Male	vocal
+TonicDataset/CM/audio/f5395581-b837-479f-92cf-28e02ddd6ff2_0-180.mp3	131.11	Carnatic	Bala Muralikrishna	Male	vocal
+TonicDataset/CM/audio/010618f6-883d-4009-9ec7-162e174b2ce2_0-180.mp3	141.830734	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/dea633c5-1f46-4b09-86a8-366ae5aac33b_0-180.mp3	142.652351	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/dea633c5-1f46-4b09-86a8-366ae5aac33b_1384-1564.mp3	142.652351	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/dea633c5-1f46-4b09-86a8-366ae5aac33b_692-872.mp3	141.830734	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/38ebd057-ce02-448c-83e4-0cb7938e8288_0-180.mp3	125.78	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/3d935f9f-d20d-4fea-a510-cd98fb6b3202_0-180.mp3	125.46	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/3d935f9f-d20d-4fea-a510-cd98fb6b3202_452-632.mp3	125.32	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/3d935f9f-d20d-4fea-a510-cd98fb6b3202_904-1084.mp3	125.759	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/573f34a7-3d87-4ca8-a2ad-e5bc9a8b8abb_0-180.mp3	125.901	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/6b2d0b03-d7c9-4171-bc9b-f0b0568a9cbc_0-180.mp3	125.325	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/bb6c78f8-8f00-4da3-b283-4a4dd701cb5d_0-180.mp3	125.688	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/c218fbdf-667f-46b9-a843-2151ec4bfb82_0-180.mp3	125.535	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/d31e2f32-75df-4b1f-817f-5c7baeba2a78_0-180.mp3	125.304	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/0d09bf2a-5fef-43df-a50f-a0bfa92af646_0-180.mp3	141.830734	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/0d09bf2a-5fef-43df-a50f-a0bfa92af646_1520-1700.mp3	141.013849	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/0d09bf2a-5fef-43df-a50f-a0bfa92af646_760-940.mp3	141.830734	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/92079af8-b97c-459c-9662-4f61d0927242_0-180.mp3	141.830734	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/9adcd67b-85ac-4128-a839-8ef2f6bc1767_0-180.mp3	141.013849	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/13b0f5d3-a4ed-444b-a92e-3954d7bdea21_0-180.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/13b0f5d3-a4ed-444b-a92e-3954d7bdea21_1056-1236.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/13b0f5d3-a4ed-444b-a92e-3954d7bdea21_528-708.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/4b3e76ed-5f89-4778-a9b3-fea10c768341_0-180.mp3	127.088797	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/4bbb3e2d-ca7d-4a84-b3ab-4b83ae854d7e_0-180.mp3	127.088797	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/8d56c0c4-589a-4468-9935-ced68fb9e2ac_0-180.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/8d56c0c4-589a-4468-9935-ced68fb9e2ac_1799-1979.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/8d56c0c4-589a-4468-9935-ced68fb9e2ac_899-1079.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/b753bee2-b9e6-464e-be44-3a95858cc273_0-180.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/c760ee4b-0b15-404c-83b7-eb11b857dcd4_0-180.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/eeccbb48-519f-48da-9e23-73afda6d702a_0-180.mp3	126.356819	Carnatic	Dandapani Desikar	Male	vocal
+TonicDataset/CM/audio/0113c364-2689-49c3-8c18-6a7f5d19d22d_0-180.mp3	156.042	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/170d02f1-5804-4919-8780-f38014592aa0_0-180.mp3	133.358	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/290c8578-e243-4ecb-9839-05920bd01a89_0-180.mp3	155.237	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/4b120b45-078a-4207-9729-ead807cdc8a4_0-180.mp3	155.33	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/526a79ed-0535-4df1-b3ff-0b1b92a7c21f_0-180.mp3	130.352	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/ace42e6f-549b-4ab0-b7ee-c94e5f36da1a_0-180.mp3	130.544	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/c9ebd1b1-3d57-403a-b94f-977c25c2fd8f_0-180.mp3	156.986	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/d1f1911e-b2a5-4f6a-a890-63c193e83eee_0-180.mp3	155.263	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/dbf00776-2fdf-4f5d-941a-7cf78d81d0c8_0-180.mp3	138.851	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/e19cf76f-bf33-4499-9725-2b4d11b02ddb_0-180.mp3	131.608	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/e19cf76f-bf33-4499-9725-2b4d11b02ddb_1001-1181.mp3	131.608	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/e19cf76f-bf33-4499-9725-2b4d11b02ddb_2002-2182.mp3	131.306	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/f0b1b175-7cc6-4693-bc7e-862e77b663fd_0-180.mp3	150.726	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/f30cc3e2-1090-405f-a54c-15613682adb2_0-180.mp3	155.171	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/fb7fcd7b-5dab-4186-a29b-1315fa65ac3f_0-180.mp3	135.715	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/9e6e3ddd-84e0-4bcf-9b0c-6b15875d8e3b_0-180.mp3	127.825015	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b432b862-c0ec-44ef-a176-231396fd6e7a_0-180.mp3	129.31027	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b432b862-c0ec-44ef-a176-231396fd6e7a_1015-1195.mp3	129.31027	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b432b862-c0ec-44ef-a176-231396fd6e7a_2030-2210.mp3	130.812783	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b877168b-824a-4b55-8aae-54731375d514_0-180.mp3	124.905487	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b877168b-824a-4b55-8aae-54731375d514_1199-1379.mp3	124.186085	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b877168b-824a-4b55-8aae-54731375d514_599-779.mp3	124.186085	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/b9c77de4-0618-4106-8930-b01b9c602294_0-180.mp3	129.31027	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/6f2504c0-3b3a-4169-a586-7e139a1ee7ef_0-180.mp3	133.977	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/bd81085d-43fb-4f53-ae33-7291ce7eefac_0-180.mp3	132.973	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/df7c36ca-3a88-41c3-b3f1-75a47f7f80d4_0-180.mp3	134.187	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/df7c36ca-3a88-41c3-b3f1-75a47f7f80d4_1457-1637.mp3	133.567	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/df7c36ca-3a88-41c3-b3f1-75a47f7f80d4_728-908.mp3	133.587	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/e5f267fa-2c14-4b13-8281-db6f34175fad_0-180.mp3	134.476	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/f80afa32-953d-442a-b4e6-207a98d42706_0-180.mp3	134.422	Carnatic	Hyderabad Brothers	Male	vocal
+TonicDataset/CM/audio/3dbeaf76-b439-46ff-b459-bbadffd4b5b5_0-180.mp3	138.785	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/5eb580e8-faea-4082-88c8-e9e3b73779ec_0-180.mp3	136.657	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/682176db-677a-4e95-9a53-82b1f79305ed_0-180.mp3	136.91	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/72f1c5a9-91a1-4b62-976f-7af979f8c763_0-180.mp3	135.816	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/72f1c5a9-91a1-4b62-976f-7af979f8c763_1021-1201.mp3	134.826	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/72f1c5a9-91a1-4b62-976f-7af979f8c763_510-690.mp3	134.221	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/7f6677bc-5bf7-47dd-a5ba-b220d7c58174_0-180.mp3	131.61	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/91768f2f-6a9a-47be-8d11-ed1946c5cf77_0-180.mp3	131.358	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/91768f2f-6a9a-47be-8d11-ed1946c5cf77_1220-1400.mp3	131.244	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/91768f2f-6a9a-47be-8d11-ed1946c5cf77_2441-2621.mp3	132.234	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/c0945b31-038d-4473-bba7-01039e72ee5f_0-180.mp3	138	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/cb21529f-d90a-4edd-9944-1e73168d188c_0-180.mp3	131.117	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/d740142e-9c1a-4bad-a9f0-cb5e771ceb6f_0-180.mp3	137.372	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/f8a59e96-d548-4ac1-bed6-9cee22fcf23a_0-180.mp3	134.659	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/1ae2320f-0f74-4ee1-8f0b-43270ff93242_0-180.mp3	131.570573	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/1ae2320f-0f74-4ee1-8f0b-43270ff93242_477-657.mp3	131.570573	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/1ae2320f-0f74-4ee1-8f0b-43270ff93242_954-1134.mp3	131.570573	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/d030123a-ab65-40ea-85a6-36b98da459f7_0-180.mp3	132.332754	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/d030123a-ab65-40ea-85a6-36b98da459f7_1927-2107.mp3	131.570573	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/d030123a-ab65-40ea-85a6-36b98da459f7_963-1143.mp3	132.332754	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/d76cda86-e0d4-4775-830e-77104265ac03_0-180.mp3	132.332754	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/49956aa0-6123-4d78-8978-67e1948c30b0_0-180.mp3	136.999458	Carnatic	M Balamurali Krishna	Male	vocal
+TonicDataset/CM/audio/d946495e-b02a-4a0f-9617-16bc7850c93b_0-180.mp3	184.997211	Carnatic	M Balamurali Krishna	Male	vocal
+TonicDataset/CM/audio/034a6c66-fe23-4801-92fb-45333a8be6bc_0-180.mp3	111.922766	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/16aa5f80-66d6-44ad-901c-9844250b2d88_0-180.mp3	110	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/16aa5f80-66d6-44ad-901c-9844250b2d88_1662-1842.mp3	110.637224	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/16aa5f80-66d6-44ad-901c-9844250b2d88_831-1011.mp3	111.922766	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/2f8a2adb-697c-4164-8d36-7cb60933aeaa_0-180.mp3	109.366447	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/2f8a2adb-697c-4164-8d36-7cb60933aeaa_1758-1938.mp3	109.366447	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/2f8a2adb-697c-4164-8d36-7cb60933aeaa_879-1059.mp3	110.637224	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/3102d6b8-fb28-4635-9421-3c554326ef52_0-180.mp3	111.278138	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/42779e33-1af3-48a8-9e68-8bc41b2c7587_0-180.mp3	109.366447	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/64a9bee2-d55e-46ce-97b3-2b0e59382238_0-180.mp3	100.870445	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/88166f7e-a85d-4c7a-91ec-2f16831b7e79_0-180.mp3	102.633629	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/88166f7e-a85d-4c7a-91ec-2f16831b7e79_1151-1331.mp3	102.633629	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/88166f7e-a85d-4c7a-91ec-2f16831b7e79_575-755.mp3	102.042503	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/b5fbb41a-7838-472f-b76f-a06b585fe3ef_0-180.mp3	111.922766	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/d7765575-f9cb-4804-89a6-e70b8ced640c_0-180.mp3	111.278138	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/351c3fff-6731-467a-8f41-2bc5397d01bb_0-180.mp3	129.162	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/393f4891-7869-4067-b22b-18219873c4b1_0-180.mp3	129.639	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/7290c802-19b6-4116-b74f-84fa3f4aa85f_0-180.mp3	129.402	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/a8fa188e-4be8-4499-bce1-a9ab37df74ff_0-180.mp3	129.503	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/afd2b465-4313-42b3-984e-40ea1aabab10_0-180.mp3	129.609	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/cc0f6bbe-f9c7-4978-8380-dcaf9ae44182_0-180.mp3	129.118	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/e509dd9f-4ee7-4310-afdb-e2d5711713f9_0-180.mp3	129.225	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/fd332fde-6830-4861-b8a0-d987f339a1b1_0-180.mp3	128.964	Carnatic	Maharajapuram Santhanam	Male	vocal
+TonicDataset/CM/audio/8c04166b-24af-4b51-8eda-7c9fd19f0096_0-180.mp3	131.947	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/8c04166b-24af-4b51-8eda-7c9fd19f0096_1371-1551.mp3	132.151	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/8c04166b-24af-4b51-8eda-7c9fd19f0096_685-865.mp3	132.666	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/9f273724-431e-4d46-95f7-d74ca1fdb14e_0-180.mp3	131.703	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/b821486b-b734-4c8e-b876-ccb6519d121f_0-180.mp3	132.701	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/cd1ea663-74da-4e03-9699-a6e61dda9f05_0-180.mp3	131.416	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/cd1ea663-74da-4e03-9699-a6e61dda9f05_1386-1566.mp3	132.173	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/cd1ea663-74da-4e03-9699-a6e61dda9f05_693-873.mp3	131.896	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/f60ab9a4-c1bd-411f-8f64-52915bb5fbb7_0-180.mp3	131.244	Carnatic	Nedunuri Krishnamurthy	Male	vocal
+TonicDataset/CM/audio/5853dea4-9f86-4f62-8f47-abc520f3493e_0-180.mp3	132.332754	Carnatic	O. S. Thyagarajan	Male	vocal
+TonicDataset/CM/audio/7c2e1332-e81f-472c-84f9-882e1201f440_0-180.mp3	132.332754	Carnatic	O. S. Thyagarajan	Male	vocal
+TonicDataset/CM/audio/7c2e1332-e81f-472c-84f9-882e1201f440_497-677.mp3	132.332754	Carnatic	O. S. Thyagarajan	Male	vocal
+TonicDataset/CM/audio/7c2e1332-e81f-472c-84f9-882e1201f440_994-1174.mp3	131.570573	Carnatic	O. S. Thyagarajan	Male	vocal
+TonicDataset/CM/audio/1479760f-8124-49b6-a28e-b43ed338f5e9_0-180.mp3	130.833	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/213c5ae8-57e8-4472-b439-db7bbe4b1e0e_0-180.mp3	130.73	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/213c5ae8-57e8-4472-b439-db7bbe4b1e0e_1051-1231.mp3	130.448	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/213c5ae8-57e8-4472-b439-db7bbe4b1e0e_525-705.mp3	131.083	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/37720d91-a434-4630-b448-874b90f6089e_0-180.mp3	130.66	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/631873f5-6bf6-4ce8-973b-8eea59b87a02_0-180.mp3	130.523	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/682d6bc4-21d5-4075-8842-b40d56308e9d_0-180.mp3	130.719	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/b66568ca-28cf-4589-80cb-ed2e03bffbfe_0-180.mp3	130.981	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/cd7cc258-11cc-4c77-a045-0c89f320bbb0_0-180.mp3	130.672	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/cd7cc258-11cc-4c77-a045-0c89f320bbb0_456-636.mp3	131.086	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/cd7cc258-11cc-4c77-a045-0c89f320bbb0_913-1093.mp3	130.585	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/35c1056e-091a-43db-b9f5-df1f1d5bf45c_0-180.mp3	144.399	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/35c1056e-091a-43db-b9f5-df1f1d5bf45c_1566-1746.mp3	145.145	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/35c1056e-091a-43db-b9f5-df1f1d5bf45c_783-963.mp3	144.638	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/7297b84b-c8d4-492d-a498-9e99e738dafb_0-180.mp3	145.368	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/aafe3338-0c73-4c3f-9b22-4ced612bf931_0-180.mp3	145.419	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/aafe3338-0c73-4c3f-9b22-4ced612bf931_1016-1196.mp3	144.77	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/aafe3338-0c73-4c3f-9b22-4ced612bf931_2032-2212.mp3	145.88	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/b8b1d8d2-dc06-4430-bccb-1b7dac147a9e_0-180.mp3	139.817	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/d5c662c7-40bd-41ca-bafd-aae971f38c0e_0-180.mp3	147.815	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/d794bd7f-4398-4194-a186-7c41753699bc_0-180.mp3	143.432	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/d794bd7f-4398-4194-a186-7c41753699bc_1132-1312.mp3	144.787	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/d794bd7f-4398-4194-a186-7c41753699bc_566-746.mp3	143.284	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/e151896b-73ff-402f-a1bd-f64d5d99d3a6_0-180.mp3	142.064	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/e3022461-c92f-484d-9373-11d3a5fb5e15_0-180.mp3	148.559	Carnatic	R. K. Srikantan	Male	vocal
+TonicDataset/CM/audio/4047037c-cb19-40ed-8619-7dbf8b79a8e9_0-180.mp3	131.570573	Carnatic	Ramnad Krishnan	Male	vocal
+TonicDataset/CM/audio/bec0bc6b-0fca-4248-bbf9-e1088169dd59_0-180.mp3	144.309891	Carnatic	Ramnad Krishnan	Male	vocal
+TonicDataset/CM/audio/decdbf35-597a-41a2-829d-957890e13b42_0-180.mp3	129.31027	Carnatic	Ramnad Krishnan	Male	vocal
+TonicDataset/CM/audio/028528cc-9b4f-44b7-afb2-5c778a24adcb_0-180.mp3	142.47	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/049d9e8f-a34c-4da7-aa7d-617584c5c461_0-180.mp3	143.888	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/322d7791-af5b-4ea8-bf0a-dd5cc3e7ec5d_0-180.mp3	143.078	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/3bc2e9ff-698c-4c76-8a21-1c8de447b0ce_0-180.mp3	142.556	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/41e3e253-0d97-4ded-9e3b-7bd7e9089098_0-180.mp3	143.018	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/45ac02f9-e046-495d-86c7-deac430ca977_0-180.mp3	141.924	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/5423fdaf-e914-49e2-ac8b-b52003b374a6_0-180.mp3	142.875	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/7d0561b3-4aef-4702-95da-3ebbda964d9a_0-180.mp3	143.822	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/9bb4aa9f-1e14-4193-876d-261a4d8f59f4_0-180.mp3	142.086	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/a8ded29b-b001-4be2-9134-81aacdb8dad0_0-180.mp3	190.012	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/c82417ab-6976-4115-b607-025c4665e5b8_0-180.mp3	142.084	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/eadae381-006f-4a68-87ac-ade75ecaf968_0-180.mp3	142.625	Carnatic	S. Ramanathan	Male	vocal
+TonicDataset/CM/audio/127b94ac-8e94-447b-b840-5082d47fc468_0-180.mp3	133.870387	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/127b94ac-8e94-447b-b840-5082d47fc468_1592-1772.mp3	134.64589	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/127b94ac-8e94-447b-b840-5082d47fc468_796-976.mp3	134.64589	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/89ccba04-b108-46f7-8edf-0911b538bc59_0-180.mp3	133.09935	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/2ce8a78d-6316-4344-8e99-201f48ba7410_0-180.mp3	142.742	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/2e7171bb-f64b-4d80-80ac-1feeb60e1138_0-180.mp3	142.897	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/434f533d-0d63-4d36-899b-908fcd9cc786_0-180.mp3	144.356	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/9cbf0762-cce3-42c7-babe-aca8888b7a18_0-180.mp3	142.342	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/a4d32899-e27c-4aa1-9620-dafbcdecec0c_0-180.mp3	141.5	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/b6e55559-aa51-47a8-96d7-5d72045abf2c_0-180.mp3	142.394	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f010ebe7-0761-4af4-9e62-526be8f051e5_0-180.mp3	142.263	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f010ebe7-0761-4af4-9e62-526be8f051e5_1075-1255.mp3	143.407	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f010ebe7-0761-4af4-9e62-526be8f051e5_537-717.mp3	142.54	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f2f08761-2e2d-4ead-8194-95e441f1a32d_0-180.mp3	142.081	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/167129a1-d931-4d86-a27d-7ce609944148_0-180.mp3	147.64	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/2d17101c-7109-4754-8d01-14de67b906d4_0-180.mp3	146.675	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/41a138f7-59a4-4ef9-ae37-5b9fd097269c_0-180.mp3	146.469	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/5c046343-cde4-4487-9450-ab1bf3b1ce53_0-180.mp3	146.347	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/5c046343-cde4-4487-9450-ab1bf3b1ce53_1222-1402.mp3	145.776	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/5c046343-cde4-4487-9450-ab1bf3b1ce53_611-791.mp3	146.534	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/76f1035e-662f-495e-99fc-94b62fdc002f_0-180.mp3	146.882	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/8b065998-c988-4c70-bf33-cb3428ce2d25_0-180.mp3	146.199	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/8b065998-c988-4c70-bf33-cb3428ce2d25_1391-1571.mp3	145.967	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/8b065998-c988-4c70-bf33-cb3428ce2d25_695-875.mp3	146.327	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/cce8842d-65b6-42ca-a76a-6a81410bdaee_0-180.mp3	146.089	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/cce8842d-65b6-42ca-a76a-6a81410bdaee_1450-1630.mp3	145.648	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/cce8842d-65b6-42ca-a76a-6a81410bdaee_2901-3081.mp3	146.27	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/e192bf26-c5eb-477a-9899-406732a7893c_0-180.mp3	147.511	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/e192bf26-c5eb-477a-9899-406732a7893c_1243-1423.mp3	147.553	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/e192bf26-c5eb-477a-9899-406732a7893c_621-801.mp3	147.048	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f8c19166-34d9-4cc7-a7ab-3f128faf282f_0-180.mp3	146.464	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f8c19166-34d9-4cc7-a7ab-3f128faf282f_363-543.mp3	147.218	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f8c19166-34d9-4cc7-a7ab-3f128faf282f_726-906.mp3	147.403	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/f4b9e94f-7459-4c98-85bd-be1e6823332f_0-180.mp3	118.96	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/f4b9e94f-7459-4c98-85bd-be1e6823332f_1127-1307.mp3	120.909	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/f4b9e94f-7459-4c98-85bd-be1e6823332f_563-743.mp3	120.738	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/8f66f053-eac8-4fce-a390-78a24d32a2b5_0-180.mp3	123.470825	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/d395a28a-9048-47a8-9b7e-4eb8a0273e56_0-180.mp3	122.759686	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/d395a28a-9048-47a8-9b7e-4eb8a0273e56_1664-1844.mp3	124.186085	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/d395a28a-9048-47a8-9b7e-4eb8a0273e56_832-1012.mp3	122.759686	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/e921c369-019b-4349-b18a-4fd878271fb1_0-180.mp3	118.57804	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/e921c369-019b-4349-b18a-4fd878271fb1_374-554.mp3	118.57804	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/e921c369-019b-4349-b18a-4fd878271fb1_748-928.mp3	117.895081	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/49b39a9e-757f-4c8b-88e1-836f7a608277_0-180.mp3	146.366	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/4b01e19f-9db8-4827-a103-ef6e50d814ac_0-180.mp3	145.877	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/56946cdc-f9ea-4951-8033-4e6c9d2151a4_0-180.mp3	145.244	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/64a4af23-ad15-4768-a9f1-252145b04dae_0-180.mp3	145.415	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/c57c6d77-cefd-42e2-9842-f55bb4bc2ca8_0-180.mp3	145.314	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/c57c6d77-cefd-42e2-9842-f55bb4bc2ca8_380-560.mp3	145.252	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/c57c6d77-cefd-42e2-9842-f55bb4bc2ca8_761-941.mp3	145.106	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/e00a3860-8ae2-400b-8300-4d72204969b3_0-180.mp3	144.889	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/e00a3860-8ae2-400b-8300-4d72204969b3_1755-1935.mp3	146.271	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/e00a3860-8ae2-400b-8300-4d72204969b3_877-1057.mp3	144.835	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/65a5c256-3a24-4e66-945b-772f44872260_0-180.mp3	147.682975	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/8c08535d-2fd3-44dd-b937-0bf812a40524_0-180.mp3	146.832384	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/0a6ebaa4-87cc-452d-a7af-a2006e96f16a_0-180.mp3	131.436	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/1e2bc579-2fac-40be-b75b-02312af411fc_0-180.mp3	131.794	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/1e2bc579-2fac-40be-b75b-02312af411fc_2258-2438.mp3	131.824	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/1e2bc579-2fac-40be-b75b-02312af411fc_4516-4696.mp3	132.617	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/2d16d8a1-7a1d-4c51-86ef-ff7ee1893292_0-180.mp3	132.311	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/39080101-e69b-455c-843b-b45365c695bb_0-180.mp3	132.054	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/39080101-e69b-455c-843b-b45365c695bb_382-562.mp3	132.605	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/39080101-e69b-455c-843b-b45365c695bb_765-945.mp3	132.099	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/61e7bb81-0294-4bce-b8c5-c963519a8da8_0-180.mp3	132.489	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/a082201d-99ac-43dd-bad6-71cb8cd8d44c_0-180.mp3	131.425	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/a23c6fde-1c17-4c74-a7c6-1dceb60d945a_0-180.mp3	131.385	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/a23c6fde-1c17-4c74-a7c6-1dceb60d945a_442-622.mp3	131.672	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/a23c6fde-1c17-4c74-a7c6-1dceb60d945a_884-1064.mp3	131.425	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/be9ce223-4086-4002-a417-92c13b979b34_0-180.mp3	131.879	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/f2946bb4-e863-422c-9555-47842cfb0dd7_0-180.mp3	131.21	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/1c7fec41-6eb3-4263-9402-4cb1a1650d4b_0-180.mp3	136.999458	Carnatic	T. V. Sankaranarayanan	Male	vocal
+TonicDataset/CM/audio/b9f57ed1-6e1d-4416-8d26-fd5eab8821e3_0-180.mp3	137.793088	Carnatic	T. V. Sankaranarayanan	Male	vocal
+TonicDataset/CM/audio/b9f57ed1-6e1d-4416-8d26-fd5eab8821e3_1749-1929.mp3	137.793088	Carnatic	T. V. Sankaranarayanan	Male	vocal
+TonicDataset/CM/audio/b9f57ed1-6e1d-4416-8d26-fd5eab8821e3_874-1054.mp3	137.793088	Carnatic	T. V. Sankaranarayanan	Male	vocal
+TonicDataset/CM/audio/da9e8965-b7be-4430-aaaf-8e067d2aa61c_0-180.mp3	137.793088	Carnatic	T. V. Sankaranarayanan	Male	vocal
+TonicDataset/CM/audio/0ecba1e0-5352-4168-a916-913f3b38e881_0-180.mp3	104.427633	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/2c0e0a0a-a943-448b-a51b-57123d401dd3_0-180.mp3	105.032576	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/55953e62-363e-47bb-8d1e-546d2e85a9e1_0-180.mp3	103.826174	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/a09bdb61-f7a5-439b-bfa5-d1cfbd9c2785_0-180.mp3	104.427633	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/a09bdb61-f7a5-439b-bfa5-d1cfbd9c2785_1882-2062.mp3	105.032576	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/a09bdb61-f7a5-439b-bfa5-d1cfbd9c2785_941-1121.mp3	103.826174	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/d162234b-7273-461c-b5c2-970b0ba407a6_0-180.mp3	104.427633	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/eb046a16-9c6c-4faf-a307-bf4ad51c50f6_0-180.mp3	103.826174	Carnatic	M. D. Ramanathan	Male	vocal
+TonicDataset/CM/audio/1814c7f8-e6ec-48f2-acd3-75f055916f36_0-180.mp3	120.650748	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/71e96392-5c05-4c69-9041-aad018f9bc1b_0-180.mp3	119.955851	Carnatic	Semmangudi Srinivasa Iyer	Male	vocal
+TonicDataset/CM/audio/2e399218-6978-47ef-ad3f-c7eca6dad81b_0-180.mp3	148.922	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/2e399218-6978-47ef-ad3f-c7eca6dad81b_418-598.mp3	148.313	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/2e399218-6978-47ef-ad3f-c7eca6dad81b_836-1016.mp3	148.919	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/842df58e-b16f-4853-8201-dee522f45483_0-180.mp3	140.307	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/950c9b6a-53e6-43e2-9339-82ba49ade152_0-180.mp3	148.585	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/950c9b6a-53e6-43e2-9339-82ba49ade152_1554-1734.mp3	148.535	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/950c9b6a-53e6-43e2-9339-82ba49ade152_777-957.mp3	148.579	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/d0c5220e-7a69-4a35-93cf-ca4cd62a9461_0-180.mp3	148.766	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/0214f94c-31bc-4b71-bae5-0ade09325436_0-180.mp3	139.394167	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/186b62f6-3073-4817-a075-439cad73305c_0-180.mp3	146.832384	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/186b62f6-3073-4817-a075-439cad73305c_1347-1527.mp3	146.832384	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/186b62f6-3073-4817-a075-439cad73305c_673-853.mp3	146.832384	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/2a77cc28-88f7-415f-a099-d5efdbe7004b_0-180.mp3	142.652351	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/2a77cc28-88f7-415f-a099-d5efdbe7004b_1318-1498.mp3	142.652351	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/2a77cc28-88f7-415f-a099-d5efdbe7004b_659-839.mp3	142.652351	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/88427a4b-e66e-4464-b422-f17dc460b1f3_0-180.mp3	137.793088	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/88427a4b-e66e-4464-b422-f17dc460b1f3_1008-1188.mp3	137.793088	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/88427a4b-e66e-4464-b422-f17dc460b1f3_504-684.mp3	137.793088	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/c25577bf-04d9-49a3-a5a6-b8876d112a93_0-180.mp3	141.013849	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/d418313f-d6a1-4ad6-b2e0-70dbdfc3fcb1_0-180.mp3	139.394167	Hindustani	Ajoy Chakraborty	Male	vocal
+TonicDataset/CM/audio/03d6cffc-df07-4e41-996e-0ec2172ff424_0-180.mp3	137.793088	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/03d6cffc-df07-4e41-996e-0ec2172ff424_1424-1604.mp3	139.394167	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/03d6cffc-df07-4e41-996e-0ec2172ff424_712-892.mp3	138.591315	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/09dd17ad-5908-4fe0-9465-ce688fc3086f_0-180.mp3	133.09935	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/56a5f6b7-67c0-4672-8eb5-4800ea004251_0-180.mp3	143.478728	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/56a5f6b7-67c0-4672-8eb5-4800ea004251_1016-1196.mp3	145.14587	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/56a5f6b7-67c0-4672-8eb5-4800ea004251_508-688.mp3	143.478728	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/a11d5ea4-370a-4980-bdf8-bfd163f0b500_0-180.mp3	146.832384	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/a11d5ea4-370a-4980-bdf8-bfd163f0b500_1591-1771.mp3	147.682975	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/a11d5ea4-370a-4980-bdf8-bfd163f0b500_795-975.mp3	147.682975	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/da623ecf-5590-4fc6-8d6d-d1f396d5021d_0-180.mp3	138.591315	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/da623ecf-5590-4fc6-8d6d-d1f396d5021d_1475-1655.mp3	139.394167	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/da623ecf-5590-4fc6-8d6d-d1f396d5021d_737-917.mp3	139.394167	Hindustani	Amir Khan	Male	vocal
+TonicDataset/CM/audio/0159d351-703e-4db9-a2e3-553ad582256c_0-180.mp3	149.398969	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/5beb3c7a-93d8-431d-b261-913480e40f52_0-180.mp3	133.870387	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/ab50e3e6-e6cb-4faa-a5ad-f0a94de30f86_0-180.mp3	143.478728	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/ab50e3e6-e6cb-4faa-a5ad-f0a94de30f86_1127-1307.mp3	141.013849	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/ab50e3e6-e6cb-4faa-a5ad-f0a94de30f86_563-743.mp3	141.830734	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/ac19c9ba-1c5f-4e01-8232-b397f1337741_0-180.mp3	138.591315	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/b3dc1142-8c20-4217-aeec-cfd9beed1fb4_0-180.mp3	147.682975	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/bd7957db-935e-4bfd-bff9-f378ca6db5c9_0-180.mp3	141.013849	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/bd7957db-935e-4bfd-bff9-f378ca6db5c9_447-627.mp3	141.013849	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/bd7957db-935e-4bfd-bff9-f378ca6db5c9_895-1075.mp3	141.013849	Hindustani	Bade Ghulam Ali Khan	Male	vocal
+TonicDataset/CM/audio/182dd9f9-d3b7-4ebc-9d18-9e0544c6e8cc_0-180.mp3	167.694673	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/182dd9f9-d3b7-4ebc-9d18-9e0544c6e8cc_1056-1236.mp3	168.666118	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/182dd9f9-d3b7-4ebc-9d18-9e0544c6e8cc_528-708.mp3	169.643191	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/3d0539f5-2d30-422f-9647-b3e14fd9787d_0-180.mp3	161.049427	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/3d0539f5-2d30-422f-9647-b3e14fd9787d_455-635.mp3	160.12185	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/3d0539f5-2d30-422f-9647-b3e14fd9787d_910-1090.mp3	161.982376	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/63a09f6b-ba52-47f0-9be1-8f4508b96ded_0-180.mp3	161.982376	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/a0111c0b-8627-4634-bec0-12c392e089d3_0-180.mp3	173.608412	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/a0111c0b-8627-4634-bec0-12c392e089d3_1263-1443.mp3	173.608412	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/a0111c0b-8627-4634-bec0-12c392e089d3_631-811.mp3	174.614116	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/de652eeb-d1ca-4ed5-9bb3-c7cb73e2b08c_0-180.mp3	166.728822	Hindustani	Basavraj Rajaguru	Male	vocal
+TonicDataset/CM/audio/13ee516e-de20-4770-9643-86f4f1adf8fa_0-180.mp3	139.608	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/13ee516e-de20-4770-9643-86f4f1adf8fa_435-615.mp3	139.345	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/13ee516e-de20-4770-9643-86f4f1adf8fa_870-1050.mp3	139.098	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/57c47d41-e2e9-4ac5-a9de-496d4c491082_0-180.mp3	159.655	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/57c47d41-e2e9-4ac5-a9de-496d4c491082_468-648.mp3	159.796	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/57c47d41-e2e9-4ac5-a9de-496d4c491082_936-1116.mp3	159.531	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5b640af5-26f6-4a02-81e5-d28cd01e9149_0-180.mp3	139.955	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5b640af5-26f6-4a02-81e5-d28cd01e9149_465-645.mp3	139.931	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5b640af5-26f6-4a02-81e5-d28cd01e9149_930-1110.mp3	140.618	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5c0fec0a-094e-471b-aa83-1f8e6ee3d274_0-180.mp3	165.383	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5c0fec0a-094e-471b-aa83-1f8e6ee3d274_488-668.mp3	165.638	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/5c0fec0a-094e-471b-aa83-1f8e6ee3d274_976-1156.mp3	164.703	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/62d572bc-f693-4378-b22c-03879b78ff0a_0-180.mp3	156.634	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/63266e48-0a3c-4756-b2bf-eb2d20902eee_0-180.mp3	156.501	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/6f2ff6eb-92a4-4125-ad9b-f02cffd3d62a_0-180.mp3	139.464	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/8296a249-801d-40ad-942b-91869978fcf2_0-180.mp3	147.399	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/8296a249-801d-40ad-942b-91869978fcf2_1074-1254.mp3	147.514	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/8296a249-801d-40ad-942b-91869978fcf2_537-717.mp3	147.261	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/93168ebf-beb1-42b5-b67b-429f870ec6b2_0-180.mp3	159.737	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/93168ebf-beb1-42b5-b67b-429f870ec6b2_452-632.mp3	160.25	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/93168ebf-beb1-42b5-b67b-429f870ec6b2_905-1085.mp3	159.663	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/a8b0d70f-4f08-40cd-b0c5-05926f0ba462_0-180.mp3	158.924	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/a8b0d70f-4f08-40cd-b0c5-05926f0ba462_467-647.mp3	158.808	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/a8b0d70f-4f08-40cd-b0c5-05926f0ba462_935-1115.mp3	159.196	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/ad5409bc-fa5d-48ca-adf1-c753c2f53717_0-180.mp3	156.099	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/ad5409bc-fa5d-48ca-adf1-c753c2f53717_436-616.mp3	155.052	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/ad5409bc-fa5d-48ca-adf1-c753c2f53717_873-1053.mp3	154.838	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b79929aa-6dc9-4bdb-bfb1-f0c40dcbf7ea_0-180.mp3	139.297	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b79929aa-6dc9-4bdb-bfb1-f0c40dcbf7ea_1322-1502.mp3	139.417	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b79929aa-6dc9-4bdb-bfb1-f0c40dcbf7ea_661-841.mp3	139.998	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b89ad07e-cc96-429e-8197-fb86e06d7ad9_0-180.mp3	159.687	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b89ad07e-cc96-429e-8197-fb86e06d7ad9_458-638.mp3	159.815	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/b89ad07e-cc96-429e-8197-fb86e06d7ad9_917-1097.mp3	159.67	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/d88f2c34-6f93-48b2-9910-e4a8a35aedbb_0-180.mp3	162.2	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/d88f2c34-6f93-48b2-9910-e4a8a35aedbb_483-663.mp3	160.749	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/d88f2c34-6f93-48b2-9910-e4a8a35aedbb_967-1147.mp3	161.343	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/f0c0c995-012e-458a-baae-6c03ea7a598a_0-180.mp3	141.918	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/f0c0c995-012e-458a-baae-6c03ea7a598a_1656-1836.mp3	142.234	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/f0c0c995-012e-458a-baae-6c03ea7a598a_828-1008.mp3	140.901	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/fa61b3ec-f0cc-4ff8-9b8b-498f88d6cf6a_0-180.mp3	160.577	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/fa61b3ec-f0cc-4ff8-9b8b-498f88d6cf6a_439-619.mp3	160.326	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/fa61b3ec-f0cc-4ff8-9b8b-498f88d6cf6a_878-1058.mp3	159.677	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/828b222a-3dec-46cc-bc29-77513bee1ce4_0-180.mp3	141.013849	Hindustani	Bhimsen Joshi	Male	vocal
+TonicDataset/CM/audio/8c8aac6b-e8d7-4748-b79d-aeea047131fe_0-180.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/8c8aac6b-e8d7-4748-b79d-aeea047131fe_1583-1763.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/8c8aac6b-e8d7-4748-b79d-aeea047131fe_791-971.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/9170935d-35dc-4c84-9ebd-ca88ed449303_0-180.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/9170935d-35dc-4c84-9ebd-ca88ed449303_1598-1778.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/9170935d-35dc-4c84-9ebd-ca88ed449303_799-979.mp3	139.394167	Hindustani	C R Vyas	Male	vocal
+TonicDataset/CM/audio/03eb8d8e-cc68-49d7-bef6-2ee46b87f739_0-180.mp3	187.146775	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/03eb8d8e-cc68-49d7-bef6-2ee46b87f739_1093-1273.mp3	186.068889	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/03eb8d8e-cc68-49d7-bef6-2ee46b87f739_546-726.mp3	187.146775	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/27c4a222-2ebb-4ef5-bccf-3efb6350b9d0_0-180.mp3	164.813778	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/27c4a222-2ebb-4ef5-bccf-3efb6350b9d0_1651-1831.mp3	164.813778	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/27c4a222-2ebb-4ef5-bccf-3efb6350b9d0_3302-3482.mp3	162.920731	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/7b301bad-e80c-4341-b5b3-8da85cc8f933_0-180.mp3	180.771869	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/e5957695-cc94-4868-97bb-7d43fe016b7d_0-180.mp3	183.931706	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/e5957695-cc94-4868-97bb-7d43fe016b7d_1071-1251.mp3	191.521124	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/e5957695-cc94-4868-97bb-7d43fe016b7d_535-715.mp3	184.997211	Hindustani	Dagar Brothers of Udaipur	Male	vocal
+TonicDataset/CM/audio/2a7fe6ba-5f03-4ee8-ac6d-31a050460a6a_0-180.mp3	140.233	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/5e36d2fc-cddf-4fc2-b336-be537764dbd5_0-180.mp3	139.734	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/6e922c43-cf72-46b2-9f40-efde24c5de13_0-180.mp3	138.836	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/7344b268-741a-444f-81ed-f7c89fefe020_0-180.mp3	138.226	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/74a866cf-4ec7-47bb-817d-6d4d990951ec_0-180.mp3	130.697	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/8cd7367e-8ae9-4135-b4cd-1ed05b5c64b9_0-180.mp3	138.607	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/8cd7367e-8ae9-4135-b4cd-1ed05b5c64b9_389-569.mp3	138.846	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/8cd7367e-8ae9-4135-b4cd-1ed05b5c64b9_779-959.mp3	138.407	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/90901e54-9c37-476d-8a71-541725efa852_0-180.mp3	138.36	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/9b01c16f-0e27-446b-b927-15a912b2f862_0-180.mp3	130.769	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/a6da08dd-b799-44cf-885b-05ac547a7d28_0-180.mp3	140.049	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/a6da08dd-b799-44cf-885b-05ac547a7d28_1306-1486.mp3	140.136	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/a6da08dd-b799-44cf-885b-05ac547a7d28_2612-2792.mp3	140.373	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/e297ca60-88be-4beb-a5a4-3dc82dcee27e_0-180.mp3	138.326	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/aecf336d-9866-47fb-96ef-60bac323ac08_0-180.mp3	138.591315	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/aecf336d-9866-47fb-96ef-60bac323ac08_1506-1686.mp3	138.591315	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/aecf336d-9866-47fb-96ef-60bac323ac08_3012-3192.mp3	138.591315	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/d4ab6d8c-38dc-4b84-8e2c-155ad523353b_0-180.mp3	147.682975	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/d4ab6d8c-38dc-4b84-8e2c-155ad523353b_1005-1185.mp3	147.682975	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/d4ab6d8c-38dc-4b84-8e2c-155ad523353b_2011-2191.mp3	147.682975	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/64c28d42-9d2f-4b7d-8b20-ab4b74446c15_0-180.mp3	149.398969	Hindustani	Jagdish Prasad	Male	vocal
+TonicDataset/CM/audio/754db442-b766-4eec-b430-ed9dfe8010b9_0-180.mp3	146.832384	Hindustani	Jagdish Prasad	Male	vocal
+TonicDataset/CM/audio/754db442-b766-4eec-b430-ed9dfe8010b9_1107-1287.mp3	146.832384	Hindustani	Jagdish Prasad	Male	vocal
+TonicDataset/CM/audio/754db442-b766-4eec-b430-ed9dfe8010b9_553-733.mp3	146.832384	Hindustani	Jagdish Prasad	Male	vocal
+TonicDataset/CM/audio/f51f9523-394f-4e36-a37f-6657af9d91cf_0-180.mp3	147.682975	Hindustani	Jagdish Prasad	Male	vocal
+TonicDataset/CM/audio/0030fdf2-ddfc-4224-986b-887c047354a0_0-180.mp3	142.627	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/0030fdf2-ddfc-4224-986b-887c047354a0_1439-1619.mp3	142.45	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/0030fdf2-ddfc-4224-986b-887c047354a0_2879-3059.mp3	142.445	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/211c010f-7ae5-4ca6-a909-f10afed265c5_0-180.mp3	140.189	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/211c010f-7ae5-4ca6-a909-f10afed265c5_1486-1666.mp3	139.884	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/211c010f-7ae5-4ca6-a909-f10afed265c5_743-923.mp3	140.184	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/344dca74-fb8a-4c7e-a7e6-0a52088edd71_0-180.mp3	139.87	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/344dca74-fb8a-4c7e-a7e6-0a52088edd71_2871-3051.mp3	139.4725	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/535fbd38-a184-4d19-b777-e3ab6e1d9db6_0-180.mp3	141.352	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/bce22707-3ce2-4810-948f-c55b795abe27_0-180.mp3	142.78	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/bce22707-3ce2-4810-948f-c55b795abe27_449-629.mp3	142.64	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/bce22707-3ce2-4810-948f-c55b795abe27_899-1079.mp3	142.871	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/cbcba04b-023b-40e0-a5e8-04260ad3efdd_0-180.mp3	140.674	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/cbcba04b-023b-40e0-a5e8-04260ad3efdd_1478-1658.mp3	141.304	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/cbcba04b-023b-40e0-a5e8-04260ad3efdd_739-919.mp3	139.971	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/14e18129-73a2-4398-8731-65978cc21dd1_0-180.mp3	140.201669	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/36a52cbd-920a-4bac-b0c5-a2e973058d6c_0-180.mp3	136.999458	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/3ce253e3-20a1-4148-b6c7-420a9784c242_0-180.mp3	140.201669	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/3ce253e3-20a1-4148-b6c7-420a9784c242_1023-1203.mp3	140.201669	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/3ce253e3-20a1-4148-b6c7-420a9784c242_511-691.mp3	140.201669	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/83d141bc-cf9e-4ec6-8892-edf444c33601_0-180.mp3	149.398969	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/83d141bc-cf9e-4ec6-8892-edf444c33601_1130-1310.mp3	149.398969	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/83d141bc-cf9e-4ec6-8892-edf444c33601_565-745.mp3	149.398969	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/8a8e2539-d866-4ce2-92c7-f8320693d07b_0-180.mp3	140.201669	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/d114eb3a-a7ef-4f4b-a83d-6d349bb39cb8_0-180.mp3	141.013849	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/dcd3f7ef-a962-4664-8cbb-3902ad43d935_0-180.mp3	150.264428	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/dcd3f7ef-a962-4664-8cbb-3902ad43d935_1878-2058.mp3	150.264428	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/dcd3f7ef-a962-4664-8cbb-3902ad43d935_939-1119.mp3	150.264428	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/e23eb921-de6e-452b-bc2f-7fbd0772c4fd_0-180.mp3	148.538494	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/e23eb921-de6e-452b-bc2f-7fbd0772c4fd_1122-1302.mp3	149.398969	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/e23eb921-de6e-452b-bc2f-7fbd0772c4fd_561-741.mp3	149.398969	Hindustani	Jasraj	Male	vocal
+TonicDataset/CM/audio/7ee9570e-7f04-4f1c-819a-ec044318e15c_0-180.mp3	155.563492	Hindustani	Jayateerth Mevundi	Male	vocal
+TonicDataset/CM/audio/7ee9570e-7f04-4f1c-819a-ec044318e15c_1634-1814.mp3	155.563492	Hindustani	Jayateerth Mevundi	Male	vocal
+TonicDataset/CM/audio/7ee9570e-7f04-4f1c-819a-ec044318e15c_3268-3448.mp3	155.563492	Hindustani	Jayateerth Mevundi	Male	vocal
+TonicDataset/CM/audio/d67d7e9e-eee0-4e3d-883f-a17e19dcf080_0-180.mp3	155.563492	Hindustani	Jayateerth Mevundi	Male	vocal
+TonicDataset/CM/audio/a9364f94-7e9f-4d8a-9ffd-db5bf358c187_0-180.mp3	161.982376	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/a9364f94-7e9f-4d8a-9ffd-db5bf358c187_1468-1648.mp3	161.982376	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/a9364f94-7e9f-4d8a-9ffd-db5bf358c187_2937-3117.mp3	162.920731	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/b91d4bfb-5f68-4e95-ab16-6e61bfec417d_0-180.mp3	163.864521	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/b91d4bfb-5f68-4e95-ab16-6e61bfec417d_542-722.mp3	163.864521	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/b91d4bfb-5f68-4e95-ab16-6e61bfec417d_1084-1264.mp3	163.864521	Hindustani	Jitendra Abhishekhi	Male	vocal
+TonicDataset/CM/audio/1caf7cef-ae50-4a96-ac5b-31519ec5f839_0-180.mp3	183.931706	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/6c573272-1f4a-4504-b7e1-996f877e1e15_0-180.mp3	179.7307	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/6c573272-1f4a-4504-b7e1-996f877e1e15_1012-1192.mp3	178.695527	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/6c573272-1f4a-4504-b7e1-996f877e1e15_506-686.mp3	179.7307	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/9f1e89b9-1dd7-494d-ada5-f879e6941cd0_0-180.mp3	180.771869	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/bc329db2-a254-4e7a-a439-3c11090f099f_0-180.mp3	171.61435	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/f6a16b24-92fb-473a-8b25-8a6517a99401_0-180.mp3	192.630595	Hindustani	Kumar Gandharv	Male	vocal
+TonicDataset/CM/audio/194d852d-5c1e-475d-8370-a5915d422d2a_0-180.mp3	179.197	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/35d79f11-0fe5-43ff-97ed-626e2433117f_0-180.mp3	179.409	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/3abaaa52-4c95-4e8b-beda-37bc3d01f763_0-180.mp3	179.19	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/3abaaa52-4c95-4e8b-beda-37bc3d01f763_1028-1208.mp3	179.384	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/3abaaa52-4c95-4e8b-beda-37bc3d01f763_514-694.mp3	179.222	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/9a6fc3fb-6434-4216-91a6-b4c16406482b_0-180.mp3	179.488	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/a8f47b67-7e60-4941-95ff-da9f2969246d_0-180.mp3	178.426	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/ec4fa3a8-4e61-4170-a452-b006c58842b7_0-180.mp3	179.458	Hindustani	Kumar Gandharva	Male	vocal
+TonicDataset/CM/audio/2d3d6b6a-11f1-4fa8-a54d-71e49a1f26d9_0-180.mp3	155.563492	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/2d3d6b6a-11f1-4fa8-a54d-71e49a1f26d9_1215-1395.mp3	155.563492	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/2d3d6b6a-11f1-4fa8-a54d-71e49a1f26d9_607-787.mp3	155.563492	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/2f76f164-f02c-4b22-8bc0-4fe5500039b1_0-180.mp3	164.813778	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/2f76f164-f02c-4b22-8bc0-4fe5500039b1_451-631.mp3	165.768535	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/2f76f164-f02c-4b22-8bc0-4fe5500039b1_903-1083.mp3	164.813778	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/96221f5b-9a88-4b1f-8825-87f4050e3573_0-180.mp3	165.768535	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/96221f5b-9a88-4b1f-8825-87f4050e3573_484-664.mp3	165.768535	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/96221f5b-9a88-4b1f-8825-87f4050e3573_968-1148.mp3	165.768535	Hindustani	Mallikarjun Mansur	Male	vocal
+TonicDataset/CM/audio/22aeb946-5f00-4cda-9606-cbaab477813a_0-180.mp3	158.282694	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/22aeb946-5f00-4cda-9606-cbaab477813a_1483-1663.mp3	157.371053	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/22aeb946-5f00-4cda-9606-cbaab477813a_741-921.mp3	158.282694	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/c12784d9-c5d7-4883-adae-8140551480c4_0-180.mp3	158.282694	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/c12784d9-c5d7-4883-adae-8140551480c4_1533-1713.mp3	158.282694	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/c12784d9-c5d7-4883-adae-8140551480c4_766-946.mp3	158.282694	Hindustani	Mukul Shivaputra Bhanumatey	Male	vocal
+TonicDataset/CM/audio/0017b1e4-f8d2-49b1-baa7-9c97fd02733e_0-180.mp3	164.813778	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/135dd722-6cc9-4dde-be0f-593bd74cc671_0-180.mp3	170.625924	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/25a3f2d8-dd00-4a31-8d60-c140e627f4ea_0-180.mp3	179.7307	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/615ed10e-91cf-46d3-bc1b-7b6d5592eaaf_0-180.mp3	152.891004	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/77c41129-142a-4df0-b54e-5870120bc7da_0-180.mp3	165.768535	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/77c41129-142a-4df0-b54e-5870120bc7da_1406-1586.mp3	167.694673	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/77c41129-142a-4df0-b54e-5870120bc7da_703-883.mp3	166.728822	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/854c6f98-b444-42ff-aa94-b1c69fba74d8_0-180.mp3	151.134901	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/d23ea1a9-a950-4895-9e39-05acd144dc48_0-180.mp3	166.728822	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/d23ea1a9-a950-4895-9e39-05acd144dc48_382-562.mp3	166.728822	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/d23ea1a9-a950-4895-9e39-05acd144dc48_764-944.mp3	167.694673	Hindustani	Omkarnath Thakur	Male	vocal
+TonicDataset/CM/audio/eae60e68-7163-4712-88d4-f8fcccb5ad3e_0-180.mp3	138.288	Hindustani	Pandit Dinkar Kaikini	Male	vocal
+TonicDataset/CM/audio/eae60e68-7163-4712-88d4-f8fcccb5ad3e_397-577.mp3	138.761	Hindustani	Pandit Dinkar Kaikini	Male	vocal
+TonicDataset/CM/audio/eae60e68-7163-4712-88d4-f8fcccb5ad3e_794-974.mp3	137.757	Hindustani	Pandit Dinkar Kaikini	Male	vocal
+TonicDataset/CM/audio/ee2a7e27-f0f4-49a8-b882-169397b3cca8_0-180.mp3	138.655	Hindustani	Pandit Dinkar Kaikini	Male	vocal
+TonicDataset/CM/audio/05d16989-65b7-47ae-b05d-72dc47077366_0-180.mp3	138.591315	Hindustani	Pandit Dinkar Kaikini	Male	vocal
+TonicDataset/CM/audio/05d50386-d558-4d57-a000-ecf57a24fc55_1758-1938.mp3	144.413	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/05d50386-d558-4d57-a000-ecf57a24fc55_879-1059.mp3	143.217	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/1e869eb8-9604-458d-8dbe-05980a4b6214_0-180.mp3	156.144	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/1e869eb8-9604-458d-8dbe-05980a4b6214_1616-1796.mp3	156.191	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/1e869eb8-9604-458d-8dbe-05980a4b6214_808-988.mp3	156.419	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/9c017a70-3bd2-438b-8ada-e9ab82e40089_0-180.mp3	156.056	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/d44c1914-b3ee-4948-af86-d07fde13c1b4_0-180.mp3	143.177	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/d44c1914-b3ee-4948-af86-d07fde13c1b4_1760-1940.mp3	144.181	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/d44c1914-b3ee-4948-af86-d07fde13c1b4_880-1060.mp3	143.068	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/e4c855f9-a2df-4ba9-b06f-34b714d7aa31_0-180.mp3	156.102	Hindustani	Rajan Mishra	Male	vocal
+TonicDataset/CM/audio/01df0bee-b090-4b1d-bbdc-84e1c436635b_0-180.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/01df0bee-b090-4b1d-bbdc-84e1c436635b_1497-1677.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/01df0bee-b090-4b1d-bbdc-84e1c436635b_748-928.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/19858799-591a-41b8-b9f2-5a1fc5273ec0_0-180.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/1bf06456-202c-46c8-a715-fa9e5e4aec53_0-180.mp3	146.832384	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/1bf06456-202c-46c8-a715-fa9e5e4aec53_440-620.mp3	146.832384	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/1bf06456-202c-46c8-a715-fa9e5e4aec53_880-1060.mp3	146.832384	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/a1dfcda1-65e3-46cf-b1a3-692c675f68bd_0-180.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/a1dfcda1-65e3-46cf-b1a3-692c675f68bd_1529-1709.mp3	157.371053	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/a1dfcda1-65e3-46cf-b1a3-692c675f68bd_764-944.mp3	157.371053	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/f5d3cea0-50ad-461f-9aa2-20f2434ae1e8_0-180.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/f5d3cea0-50ad-461f-9aa2-20f2434ae1e8_1505-1685.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/f5d3cea0-50ad-461f-9aa2-20f2434ae1e8_752-932.mp3	156.464662	Hindustani	Rashid Khan	Male	vocal
+TonicDataset/CM/audio/264c81c3-cb6b-4a47-91a2-6cadec8d4c15_0-180.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/264c81c3-cb6b-4a47-91a2-6cadec8d4c15_1615-1795.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/264c81c3-cb6b-4a47-91a2-6cadec8d4c15_807-987.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/955c6d5a-670e-44bd-bd3a-338c491e0165_0-180.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/955c6d5a-670e-44bd-bd3a-338c491e0165_1503-1683.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/955c6d5a-670e-44bd-bd3a-338c491e0165_751-931.mp3	149.398969	Hindustani	Rattan Mohan Sharma	Male	vocal
+TonicDataset/CM/audio/2e6749b2-1770-4468-9db0-6e983190bf9d_0-180.mp3	141.103	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/2e6749b2-1770-4468-9db0-6e983190bf9d_1596-1776.mp3	140.855	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/2e6749b2-1770-4468-9db0-6e983190bf9d_798-978.mp3	140.806	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/35bd5102-d3bc-48da-a384-00848130aa72_0-180.mp3	140.891	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/7199a72c-c660-40dc-8cb9-bc941ae4e8a2_0-180.mp3	140.725	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/7199a72c-c660-40dc-8cb9-bc941ae4e8a2_1574-1754.mp3	140.952	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/7199a72c-c660-40dc-8cb9-bc941ae4e8a2_787-967.mp3	140.66	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/c0333b05-4593-4618-b00c-9c363c0e4b09_0-180.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/c0333b05-4593-4618-b00c-9c363c0e4b09_1564-1744.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/c0333b05-4593-4618-b00c-9c363c0e4b09_782-962.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/e8eee364-ca1d-4efc-8083-374c3ff853c7_0-180.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/e8eee364-ca1d-4efc-8083-374c3ff853c7_1573-1753.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/e8eee364-ca1d-4efc-8083-374c3ff853c7_786-966.mp3	141.013849	Hindustani	Sanjeev Abhyankar	Male	vocal
+TonicDataset/CM/audio/24ebe543-4197-4f7e-9be7-d6db7d1c4f2c_0-180.mp3	143.478728	Hindustani	Uday Bhawalkar	Male	vocal
+TonicDataset/CM/audio/8dc7807d-2752-444e-874c-ede22d32bacb_0-180.mp3	143.478728	Hindustani	Uday Bhawalkar	Male	vocal
+TonicDataset/CM/audio/934c79e8-8577-47f9-8380-f628944af911_0-180.mp3	143.478728	Hindustani	Uday Bhawalkar	Male	vocal
+TonicDataset/CM/audio/934c79e8-8577-47f9-8380-f628944af911_1350-1530.mp3	143.478728	Hindustani	Uday Bhawalkar	Male	vocal
+TonicDataset/CM/audio/934c79e8-8577-47f9-8380-f628944af911_2700-2880.mp3	143.478728	Hindustani	Uday Bhawalkar	Male	vocal
+TonicDataset/CM/audio/1135a240-fe5b-4205-b299-3fe52742efa1_0-180.mp3	151.134901	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/1135a240-fe5b-4205-b299-3fe52742efa1_1751-1931.mp3	151.134901	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/1135a240-fe5b-4205-b299-3fe52742efa1_875-1055.mp3	151.134901	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/280d22fb-1f69-438a-94c6-dfc71100ebc6_0-180.mp3	152.010417	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/280d22fb-1f69-438a-94c6-dfc71100ebc6_1839-2019.mp3	152.010417	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/280d22fb-1f69-438a-94c6-dfc71100ebc6_919-1099.mp3	152.010417	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/51fe3552-b72f-400b-939b-19683f6680c8_0-180.mp3	158.282694	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/51fe3552-b72f-400b-939b-19683f6680c8_1572-1752.mp3	157.371053	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/51fe3552-b72f-400b-939b-19683f6680c8_786-966.mp3	157.371053	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/5c89beb8-a496-4ccb-8039-2260f141f7bb_0-180.mp3	160.12185	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/5c89beb8-a496-4ccb-8039-2260f141f7bb_498-678.mp3	160.12185	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/5c89beb8-a496-4ccb-8039-2260f141f7bb_997-1177.mp3	160.12185	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/91bbdaa0-551d-454b-97f3-67c89c72f8d5_0-180.mp3	157.371053	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/91bbdaa0-551d-454b-97f3-67c89c72f8d5_1613-1793.mp3	155.563492	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/91bbdaa0-551d-454b-97f3-67c89c72f8d5_806-986.mp3	156.464662	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/c8724201-ecfd-44be-af53-5f436564d062_0-180.mp3	160.12185	Hindustani	Ulhas Kashalkar	Male	vocal
+TonicDataset/CM/audio/4e1209fd-eb99-4481-b292-3fc2d806b64f_0-180.mp3	141.122	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/83ea606c-3dc1-40b2-b99c-adcb722d25be_0-180.mp3	140.345	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/83ea606c-3dc1-40b2-b99c-adcb722d25be_1257-1437.mp3	140.334	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/83ea606c-3dc1-40b2-b99c-adcb722d25be_628-808.mp3	140.603	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/9a6c50a7-2b7a-45b5-bad0-a7b2dd3e0169_0-180.mp3	139.549	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/9a6c50a7-2b7a-45b5-bad0-a7b2dd3e0169_402-582.mp3	139.676	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/9a6c50a7-2b7a-45b5-bad0-a7b2dd3e0169_805-985.mp3	139.445	Hindustani	Ustad Nasir Zahiruddin Dagar	Male	vocal
+TonicDataset/CM/audio/48fd5c6f-5e4a-4035-b04e-ba792f5d0b50_0-180.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/48fd5c6f-5e4a-4035-b04e-ba792f5d0b50_1372-1552.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/48fd5c6f-5e4a-4035-b04e-ba792f5d0b50_686-866.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/6c3bec9b-0afd-4033-a15c-7134205b2a7e_0-180.mp3	140.201669	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/855fa024-a4c5-4cca-bb26-0b2c806db722_0-180.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/855fa024-a4c5-4cca-bb26-0b2c806db722_1069-1249.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/855fa024-a4c5-4cca-bb26-0b2c806db722_2139-2319.mp3	138.591315	Carnatic	Abhishek Raghuram	Male	vocal
+TonicDataset/CM/audio/8b446b15-3c62-4a6b-8104-e6bdaa274612_0-180.mp3	134.64589	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/b60b5bb8-fbd6-4bf1-b0de-d927781f5e2c_0-180.mp3	136.2104	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/b60b5bb8-fbd6-4bf1-b0de-d927781f5e2c_424-604.mp3	136.2104	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/b60b5bb8-fbd6-4bf1-b0de-d927781f5e2c_848-1028.mp3	136.2104	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/e64f8a13-4e50-4e9d-be43-60f07c43e871_0-180.mp3	133.09935	Carnatic	Ariyakudi Ramanuja Iyengar	Male	vocal
+TonicDataset/CM/audio/97bdb44f-962c-45bf-8380-f9626ee00851_0-180.mp3	123.470825	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/e935b811-e08e-4512-911b-a720ffde5a3c_0-180.mp3	123.470825	Carnatic	D. K. Jayaraman	Male	vocal
+TonicDataset/CM/audio/00952ca8-c72c-4645-8571-a5ee84bba19d_0-180.mp3	129.31027	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/00952ca8-c72c-4645-8571-a5ee84bba19d_1283-1463.mp3	130.812783	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/00952ca8-c72c-4645-8571-a5ee84bba19d_641-821.mp3	130.059356	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/3e1b5364-75e3-4726-ad21-57051426ef1e_0-180.mp3	130.059356	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/3e1b5364-75e3-4726-ad21-57051426ef1e_1621-1801.mp3	130.059356	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/3e1b5364-75e3-4726-ad21-57051426ef1e_810-990.mp3	130.059356	Carnatic	G. N. Balasubramaniam	Male	vocal
+TonicDataset/CM/audio/5c1ae6ac-ada7-45df-b807-812a81f20cad_0-180.mp3	127.825015	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/a06b5a33-db7e-4ac3-9e47-9354a58446fb_0-180.mp3	127.825015	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/a06b5a33-db7e-4ac3-9e47-9354a58446fb_1865-2045.mp3	128.565497	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/a06b5a33-db7e-4ac3-9e47-9354a58446fb_932-1112.mp3	127.825015	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/cac9319e-c16a-436d-bcbe-fa032f34df9e_0-180.mp3	128.565497	Carnatic	K. V. Narayanaswami	Male	vocal
+TonicDataset/CM/audio/7aa54c2b-0adc-45b9-9a1a-f184abcdf950_0-180.mp3	127.088797	Carnatic	Madurai Mani Iyer	Male	vocal
+TonicDataset/CM/audio/860cb11c-bdc6-4fa3-a501-0cea9fad4fcf_0-180.mp3	119.955851	Carnatic	Madurai Mani Iyer	Male	vocal
+TonicDataset/CM/audio/9bb11760-e39b-4729-b9d1-28ff70666e86_0-180.mp3	120.650748	Carnatic	Madurai Mani Iyer	Male	vocal
+TonicDataset/CM/audio/9fcb6667-ce79-43a5-96ad-befe4abfdeba_0-180.mp3	126.356819	Carnatic	Madurai Mani Iyer	Male	vocal
+TonicDataset/CM/audio/dcf649d2-02c7-4deb-a998-52e18828ce21_0-180.mp3	119.955851	Carnatic	Madurai Mani Iyer	Male	vocal
+TonicDataset/CM/audio/0959d3ab-99a9-4203-928c-8ac5e35b4d84_0-180.mp3	131.570573	Carnatic	P. Unnikrishnan	Male	vocal
+TonicDataset/CM/audio/3adb8fd5-66f7-47ea-87cf-6acf00f79e00_0-180.mp3	146.832384	Carnatic	Prasanna Venkataraman	Male	vocal
+TonicDataset/CM/audio/46cea833-d338-468d-a00d-393efa64c94e_0-180.mp3	146.832384	Carnatic	Prasanna Venkataraman	Male	vocal
+TonicDataset/CM/audio/edcd68bc-eb0a-4810-a056-e56237bef387_0-180.mp3	146.832384	Carnatic	Prasanna Venkataraman	Male	vocal
+TonicDataset/CM/audio/462821f1-ef5d-423b-8e86-6813739cacd2_0-180.mp3	140.201669	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/51af98d6-b7e4-4404-92ae-4c1a165d302e_0-180.mp3	141.830734	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/51af98d6-b7e4-4404-92ae-4c1a165d302e_1599-1779.mp3	141.830734	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/51af98d6-b7e4-4404-92ae-4c1a165d302e_799-979.mp3	142.652351	Carnatic	S. Somasundaram	Male	vocal
+TonicDataset/CM/audio/18c72392-b1c2-4ba5-a908-0c3251886e20_0-180.mp3	144.309891	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/3c4f84b0-5290-4146-b2d4-f9b5187aa71d_0-180.mp3	145.986692	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/3c4f84b0-5290-4146-b2d4-f9b5187aa71d_1202-1382.mp3	145.986692	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/3c4f84b0-5290-4146-b2d4-f9b5187aa71d_2405-2585.mp3	145.986692	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/5d1e6f5e-a588-461a-afc4-4d42a68e0adb_0-180.mp3	145.986692	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/72caf2f7-fc01-4fba-82a4-9346d682de51_0-180.mp3	146.832384	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/72caf2f7-fc01-4fba-82a4-9346d682de51_1044-1224.mp3	147.682975	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/72caf2f7-fc01-4fba-82a4-9346d682de51_522-702.mp3	146.832384	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/bdc67542-86ca-4d8c-9733-987ce8c6f3a2_0-180.mp3	146.832384	Carnatic	Sanjay Subrahmanyan	Male	vocal
+TonicDataset/CM/audio/1e93af91-fe4c-467c-b3ce-9885d78fcf7f_0-180.mp3	146.832384	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/7cb74671-9157-4c11-b68f-5d749c492684_0-180.mp3	146.832384	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/85a19b2f-312d-45e1-a727-7e5b93f70167_0-180.mp3	145.986692	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/b8aeab18-be28-4b95-9699-72181e48df24_0-180.mp3	147.682975	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/d8cfb76c-b08c-41e4-9aca-1de2375e26f1_0-180.mp3	138.591315	Carnatic	T. M. Krishna	Male	vocal
+TonicDataset/CM/audio/1c0ed48b-fb7d-4137-8cc4-1222909ef0ad_0-180.mp3	124.905487	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/e3bbb8fc-be01-4954-8f77-ae1806673fb4_0-180.mp3	124.905487	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/e3bbb8fc-be01-4954-8f77-ae1806673fb4_418-598.mp3	124.905487	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/e3bbb8fc-be01-4954-8f77-ae1806673fb4_837-1017.mp3	124.905487	Carnatic	T. N. Seshagopalan	Male	vocal
+TonicDataset/CM/audio/2f8e59fe-53ff-4289-be3c-42550762ec41_0-180.mp3	147.682975	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/2f8e59fe-53ff-4289-be3c-42550762ec41_1516-1696.mp3	146.832384	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/2f8e59fe-53ff-4289-be3c-42550762ec41_758-938.mp3	147.682975	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/6ace5931-c2d4-49fd-9f2b-530198d1789d_0-180.mp3	147.682975	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/a3dc0349-d629-4ccf-88be-4b4e9bedb104_0-180.mp3	146.832384	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/a3dc0349-d629-4ccf-88be-4b4e9bedb104_486-666.mp3	146.832384	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/a3dc0349-d629-4ccf-88be-4b4e9bedb104_973-1153.mp3	145.986692	Carnatic	Tanjore S. Kalyanaraman	Male	vocal
+TonicDataset/CM/audio/2e28e765-55e6-43b9-9232-6f451a26a29c_0-180.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/4db4512e-76c6-4fed-ae8d-fe9db39bda20_0-180.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/569b8358-b318-409f-a8e8-1da724f01809_0-180.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/569b8358-b318-409f-a8e8-1da724f01809_1152-1332.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/569b8358-b318-409f-a8e8-1da724f01809_576-756.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/93c4d80a-0dd6-483b-b9b8-0d3159cc02dc_0-180.mp3	150.264428	Carnatic	Vijay Siva	Male	vocal
+TonicDataset/CM/audio/960a3be4-d5b3-4247-8558-80c77c0925cd_0-180.mp3	140.402	Hindustani	Gundecha Brothers	Male	vocal
+TonicDataset/CM/audio/2563c40a-b96d-4f95-af77-e716670d95fe_0-180.mp3	155.563492	Hindustani	Shrinivas Joshi	Male	vocal
+TonicDataset/CM/audio/37dd8430-279d-436c-a693-33b8c418f4e9_0-180.mp3	155.563492	Hindustani	Shrinivas Joshi	Male	vocal
+TonicDataset/CM/audio/9b369eb5-d9ec-4de4-9f35-02c25abe7743_0-180.mp3	155.563492	Hindustani	Shrinivas Joshi	Male	vocal
+TonicDataset/CM/audio/a7f6551d-9696-4713-becb-b22acf71a7db_0-180.mp3	155.563492	Hindustani	Shrinivas Joshi	Male	vocal
+TonicDataset/CM/audio/b52a2b20-cb66-4bc7-8560-96d0eb2ebf08_0-180.mp3	155.563492	Hindustani	Shrinivas Joshi	Male	vocal
