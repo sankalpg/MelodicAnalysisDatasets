@@ -1,0 +1,13 @@
+This report is generated on 10/18/16	
+
+This is an automatically generated report. It contains information about the verification of the dataset, we check each an every file related with the dataset and summarize the results in this file.
+
+Format: Type of file	total files	files present
+
+
+tonic	15	15
+intermediate_output	15	15
+annotations_textgrid_complex	15	15
+pitch	15	15
+audio	15	15
+annotations	15	15
