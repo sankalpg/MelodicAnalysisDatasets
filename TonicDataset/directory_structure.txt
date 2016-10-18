@@ -1,0 +1,17 @@
+└── TonicDataset
+    ├── CM
+    │   ├── audio
+    │   └── features
+    ├── datasets
+    │   ├── CompMusicWorkshop2012
+    │   ├── ISMIR2012
+    │   └── JNMR2014
+    ├── IISc
+    │   ├── audio
+    │   └── features
+    └── IITM
+        ├── audio
+        └── features
+
+
+After you download features and audio they should be stored like shown above for the scripts to function properly (by default).
