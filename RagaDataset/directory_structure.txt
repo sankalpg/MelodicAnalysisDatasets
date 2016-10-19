@@ -1,0 +1,11 @@
+RagaDataset/
+├── Carnatic
+│   ├── audio
+│   ├── features
+│   └── _info_
+├── Hindustani
+│   ├── audio
+│   ├── features
+│   └── _info_
+
+After you download features and audio they should be stored like shown above for the scripts to function properly (by default).
