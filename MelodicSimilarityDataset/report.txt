@@ -1,0 +1,32 @@
+This report is generated on 10/19/16	
+
+This is an automatically generated report. It contains information about the verification of the datasets, we check each an every file related with the dataset and summarize the results in this file.
+
+Format: Type of file	total files	files present
+
+
+This is  for the Carnatic music dataset
+
+
+
+annotations_original	23	23
+pitch_postp_rocessed	23	23
+tonic	23	23
+tonic_fine_tuned	23	23
+nyas_segments	23	23
+pitch	23	23
+audio	23	23
+annotations_impr	23	23
+
+
+
+This is  for the Hindustani music dataset
+
+annotations_original	9	9
+pitch_postp_rocessed	9	9
+tonic	9	9
+tonic_fine_tuned	9	9
+nyas_segments	9	9
+pitch	9	9
+audio	9	9
+annotations_impr	9	9
